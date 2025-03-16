@@ -1,0 +1,801 @@
+"SubmissionId","SubmissionDateOnly","SubmissionTimeOnly","UserId","DistrictName","ItemsToChoose","PurchaseUnit","Price","Comments"
+"6b7483a2-25c7-4fa9-864e-4b5545bb1783",2024-11-30,"23:32:19","173dcb872759ee4b05745b23a2e7ae34","Dhaka","Rice","1kg",67,NA
+"6b7483a2-25c7-4fa9-864e-4b5545bb1783",2024-11-30,"23:32:19","173dcb872759ee4b05745b23a2e7ae34","Dhaka","Soybean Oil","1L",167,NA
+"0e3b61f1-8e21-4f05-aea0-b7226a0946e6",2024-11-30,"23:48:36","173dcb872759ee4b05745b23a2e7ae34","Dhaka","Rice","1kg",66,NA
+"0e3b61f1-8e21-4f05-aea0-b7226a0946e6",2024-11-30,"23:48:36","173dcb872759ee4b05745b23a2e7ae34","Dhaka","Soybean Oil","1L",167,NA
+"8d07e7ca-e22f-44be-b5c6-3eb9a8ec71c1",2024-12-01,"04:32:29","0859ee7098b0fcd674aeb822126f986a","Dhaka","Rice","1kg",72,NA
+"8d07e7ca-e22f-44be-b5c6-3eb9a8ec71c1",2024-12-01,"04:32:29","0859ee7098b0fcd674aeb822126f986a","Dhaka","Soybean Oil","1L",170,NA
+"988acbef-9e63-4ab0-aea6-b3baa020c32f",2024-12-02,"06:36:04","0c29694fadfcb564ebe238a66c3b99f8","Dhaka","Sugar","1kg",185,NA
+"988acbef-9e63-4ab0-aea6-b3baa020c32f",2024-12-02,"06:36:04","0c29694fadfcb564ebe238a66c3b99f8","Dhaka","Green Chilli","1kg",120,NA
+"c66083e5-1cd2-4697-856b-31c3f1e3b00d",2024-12-03,"16:25:33","fae74bc76cf6016774eb072b7ad97bb8","Dhaka","Rice","1kg",72,NA
+"c66083e5-1cd2-4697-856b-31c3f1e3b00d",2024-12-03,"16:25:33","fae74bc76cf6016774eb072b7ad97bb8","Dhaka","Soybean Oil","1L",180,NA
+"228625d6-bc6c-4776-b20b-8ac43923c8d2",2024-12-02,"12:06:00","24d4f26a0359322aa9de9b83d25d2875","Dhaka","Rice","1kg",73,NA
+"228625d6-bc6c-4776-b20b-8ac43923c8d2",2024-12-02,"12:06:00","24d4f26a0359322aa9de9b83d25d2875","Dhaka","Lentil","1kg",155,NA
+"228625d6-bc6c-4776-b20b-8ac43923c8d2",2024-12-02,"12:06:00","24d4f26a0359322aa9de9b83d25d2875","Dhaka","Flour","1kg",60,NA
+"228625d6-bc6c-4776-b20b-8ac43923c8d2",2024-12-02,"12:06:00","24d4f26a0359322aa9de9b83d25d2875","Dhaka","Soybean Oil","1L",167,NA
+"228625d6-bc6c-4776-b20b-8ac43923c8d2",2024-12-02,"12:06:00","24d4f26a0359322aa9de9b83d25d2875","Dhaka","Salt","1kg",42,NA
+"228625d6-bc6c-4776-b20b-8ac43923c8d2",2024-12-02,"12:06:00","24d4f26a0359322aa9de9b83d25d2875","Dhaka","Eggs","4 eggs",50,NA
+"228625d6-bc6c-4776-b20b-8ac43923c8d2",2024-12-02,"12:06:00","24d4f26a0359322aa9de9b83d25d2875","Dhaka","Potato","1kg",70,NA
+"228625d6-bc6c-4776-b20b-8ac43923c8d2",2024-12-02,"12:06:00","24d4f26a0359322aa9de9b83d25d2875","Dhaka","Onion","1kg",120,NA
+"228625d6-bc6c-4776-b20b-8ac43923c8d2",2024-12-02,"12:06:00","24d4f26a0359322aa9de9b83d25d2875","Dhaka","Green Chilli","1kg",100,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Rice","1kg",75,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Flour","1kg",74,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Lentil","1kg",165,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Soybean Oil","1L",180,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Sugar","1kg",125,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Salt","1kg",35,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Eggs","4 eggs",50,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Chicken","1kg",340,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Potato","1kg",80,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Eggplant","1kg",120,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Green Chilli","1kg",75,NA
+"d7ed0df1-13ae-4691-a3a5-55d0dafaffc8",2024-12-13,"08:30:45","3c4da5d5300f1fadba9801b5e8828301","Dhaka","Onion","1kg",100,NA
+"70f25470-7afe-4eca-a9ac-0e4ed3bbecce",2024-12-13,"10:25:14","def257dca811221bae96896a448afced","Naogaon","Rice","1kg",80,"Dummy"
+"70f25470-7afe-4eca-a9ac-0e4ed3bbecce",2024-12-13,"10:25:14","def257dca811221bae96896a448afced","Naogaon","Soybean Oil","1L",190,"Dummy"
+"70f25470-7afe-4eca-a9ac-0e4ed3bbecce",2024-12-13,"10:25:14","def257dca811221bae96896a448afced","Naogaon","Salt","1kg",60,"Dummy"
+"96ac0237-9540-4781-b6a0-0e4f873d191b",2024-12-13,"10:34:37","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Chicken","1kg",165,NA
+"b52f7f5c-4bde-44d5-a339-390139cc0b3d",2024-12-13,"10:35:37","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Chicken","1kg",290,NA
+"802d4279-8756-4136-8623-64916901f86e",2024-12-13,"12:46:24","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Flour","1kg",56,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Rice","1kg",85,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Flour","1kg",48,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Lentil","1kg",105,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Soybean Oil","1L",170,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Salt","1kg",25,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Sugar","1kg",128,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",46,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Chicken","1kg",290,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Potato","1kg",120,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggplant","1kg",60,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Onion","1kg",70,NA
+"71c3316e-9cfb-4e4c-bf4b-7de9c2acd876",2024-12-13,"13:34:52","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Green Chilli","1kg",80,NA
+"2c702645-a666-4b1a-a901-07a8f405beb5",2024-12-13,"13:38:38","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Rice","1kg",60,NA
+"2c702645-a666-4b1a-a901-07a8f405beb5",2024-12-13,"13:38:38","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Flour","1kg",60,NA
+"2c702645-a666-4b1a-a901-07a8f405beb5",2024-12-13,"13:38:38","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Lentil","1kg",110,NA
+"2c702645-a666-4b1a-a901-07a8f405beb5",2024-12-13,"13:38:38","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Salt","1kg",40,NA
+"2c702645-a666-4b1a-a901-07a8f405beb5",2024-12-13,"13:38:38","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",48,NA
+"2c702645-a666-4b1a-a901-07a8f405beb5",2024-12-13,"13:38:38","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Chicken","1kg",180,NA
+"2c702645-a666-4b1a-a901-07a8f405beb5",2024-12-13,"13:38:38","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Potato","1kg",100,NA
+"2c702645-a666-4b1a-a901-07a8f405beb5",2024-12-13,"13:38:38","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggplant","1kg",50,NA
+"2c702645-a666-4b1a-a901-07a8f405beb5",2024-12-13,"13:38:38","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Onion","1kg",80,NA
+"e6f9d9fe-bd80-45e6-8b70-a5f4a9c4eda9",2024-12-13,"13:40:36","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Rice","1kg",60,NA
+"e6f9d9fe-bd80-45e6-8b70-a5f4a9c4eda9",2024-12-13,"13:40:36","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Lentil","1kg",130,NA
+"e6f9d9fe-bd80-45e6-8b70-a5f4a9c4eda9",2024-12-13,"13:40:36","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Potato","1kg",75,NA
+"e6f9d9fe-bd80-45e6-8b70-a5f4a9c4eda9",2024-12-13,"13:40:36","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Onion","1kg",90,NA
+"df67a8c1-667c-4dd5-85ee-cc7e9609a3f1",2024-12-13,"13:42:23","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Rice","1kg",92,NA
+"df67a8c1-667c-4dd5-85ee-cc7e9609a3f1",2024-12-13,"13:42:23","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Lentil","1kg",140,NA
+"3ba0f00c-3bd4-4756-b488-d1fcaaabc5c4",2024-12-13,"15:26:53","173dcb872759ee4b05745b23a2e7ae34","Bogra","Lentil","1kg",140,NA
+"3ba0f00c-3bd4-4756-b488-d1fcaaabc5c4",2024-12-13,"15:26:53","173dcb872759ee4b05745b23a2e7ae34","Bogra","Soybean Oil","1L",185,NA
+"3ba0f00c-3bd4-4756-b488-d1fcaaabc5c4",2024-12-13,"15:26:53","173dcb872759ee4b05745b23a2e7ae34","Bogra","Eggs","4 eggs",50,NA
+"3ba0f00c-3bd4-4756-b488-d1fcaaabc5c4",2024-12-13,"15:26:53","173dcb872759ee4b05745b23a2e7ae34","Bogra","Chicken","1kg",200,NA
+"3ba0f00c-3bd4-4756-b488-d1fcaaabc5c4",2024-12-13,"15:26:53","173dcb872759ee4b05745b23a2e7ae34","Bogra","Potato","1kg",90,NA
+"3ba0f00c-3bd4-4756-b488-d1fcaaabc5c4",2024-12-13,"15:26:53","173dcb872759ee4b05745b23a2e7ae34","Bogra","Onion","1kg",120,NA
+"b4e4aabd-76e4-4a38-a698-1e3087011d56",2024-12-13,"15:34:53","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Potato","1kg",120,NA
+"b4e4aabd-76e4-4a38-a698-1e3087011d56",2024-12-13,"15:34:53","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Onion","1kg",110,NA
+"b4e4aabd-76e4-4a38-a698-1e3087011d56",2024-12-13,"15:34:53","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Green Chilli","1kg",200,NA
+"872f17ff-5dd8-4778-bf4a-ffd3e43aed9d",2024-12-13,"15:40:07","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Chicken","1kg",180,NA
+"872f17ff-5dd8-4778-bf4a-ffd3e43aed9d",2024-12-13,"15:40:07","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Eggs","4 eggs",55,NA
+"76960816-b2b4-4cbc-8d7e-8543286948a2",2024-12-13,"15:40:49","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Green Chilli","1kg",150,NA
+"e78b4cba-d3e7-45a1-8ae0-d89ad27fb7b6",2024-12-13,"15:56:07","12bc8f52864c56c3dfbd8905a123f20c","Bhola","Rice","1kg",55,NA
+"e78b4cba-d3e7-45a1-8ae0-d89ad27fb7b6",2024-12-13,"15:56:07","12bc8f52864c56c3dfbd8905a123f20c","Bhola","Eggplant","1kg",50,NA
+"e78b4cba-d3e7-45a1-8ae0-d89ad27fb7b6",2024-12-13,"15:56:07","12bc8f52864c56c3dfbd8905a123f20c","Bhola","Potato","1kg",70,NA
+"5d0795f4-945c-426d-bb2a-7cae96d8c949",2024-12-13,"15:57:30","12bc8f52864c56c3dfbd8905a123f20c","Bhola","Potato","1kg",100,NA
+"5b25d21d-8238-4d78-8a27-6e6581528919",2024-12-13,"16:01:51","12bc8f52864c56c3dfbd8905a123f20c","Bhola","Lentil","1kg",130,NA
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Rice","1kg",70,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Lentil","1kg",120,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Soybean Oil","1L",170,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Flour","1kg",44,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Salt","1kg",42,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Sugar","1kg",125,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Eggs","4 eggs",46,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Chicken","1kg",160,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Potato","1kg",75,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Eggplant","1kg",70,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Onion","1kg",130,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"81599a56-3da4-43f1-945f-960462cd7a7b",2024-12-13,"18:25:03","2e714926004c88ebae4732420decc6ad","Rajshahi","Green Chilli","1kg",200,"কাচা সবজির দাম সকালে কিছুটা বেশি, বিকেলে একটু কম সকালের তুলনায়।"
+"c6d2428d-6a21-42e6-a6c1-a545c20b5e02",2024-12-13,"22:43:46","3f79451882db96a21d00211e6733ed69","Satkhira","Eggs","4 eggs",44,NA
+"c6d2428d-6a21-42e6-a6c1-a545c20b5e02",2024-12-13,"22:43:46","3f79451882db96a21d00211e6733ed69","Satkhira","Chicken","1kg",295,NA
+"99d8eed4-bcb3-43fb-a836-a58c82191724",2024-12-13,"23:54:47","fac23943615c3724d0894d7c0fcbd59d","Dhaka","Rice","1kg",60,"Test entry"
+"99d8eed4-bcb3-43fb-a836-a58c82191724",2024-12-13,"23:54:47","fac23943615c3724d0894d7c0fcbd59d","Dhaka","Lentil","1kg",120,"Test entry"
+"99d8eed4-bcb3-43fb-a836-a58c82191724",2024-12-13,"23:54:47","fac23943615c3724d0894d7c0fcbd59d","Dhaka","Soybean Oil","1L",170,"Test entry"
+"99d8eed4-bcb3-43fb-a836-a58c82191724",2024-12-13,"23:54:47","fac23943615c3724d0894d7c0fcbd59d","Dhaka","Green Chilli","1kg",100,"Test entry"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Rice","1kg",78,"Add the Quantity please 
+"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Flour","1kg",70,"Add the Quantity please 
+"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Lentil","1kg",120,"Add the Quantity please 
+"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Soybean Oil","1L",210,"Add the Quantity please 
+"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Salt","1kg",40,"Add the Quantity please 
+"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Sugar","1kg",136,"Add the Quantity please 
+"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Eggs","4 eggs",46,"Add the Quantity please 
+"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Chicken","1kg",225,"Add the Quantity please 
+"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Potato","1kg",75,"Add the Quantity please 
+"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Eggplant","1kg",55,"Add the Quantity please 
+"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Onion","1kg",120,"Add the Quantity please 
+"
+"c40ab17b-aabb-4f96-9c27-e720a5b1ebc5",2024-12-14,"03:30:14","99bb15d88bd10d920ac1935d4178f920","Rajshahi","Green Chilli","1kg",90,"Add the Quantity please 
+"
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Rice","1kg",80,"You can give some option for types of eggplant if it is mandatory."
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Flour","1kg",50,"You can give some option for types of eggplant if it is mandatory."
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Soybean Oil","1L",168,"You can give some option for types of eggplant if it is mandatory."
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Sugar","1kg",135,"You can give some option for types of eggplant if it is mandatory."
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Chicken","1kg",165,"You can give some option for types of eggplant if it is mandatory."
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Potato","1kg",80,"You can give some option for types of eggplant if it is mandatory."
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Eggplant","1kg",55,"You can give some option for types of eggplant if it is mandatory."
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Onion","1kg",80,"You can give some option for types of eggplant if it is mandatory."
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Eggs","4 eggs",48,"You can give some option for types of eggplant if it is mandatory."
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Green Chilli","1kg",60,"You can give some option for types of eggplant if it is mandatory."
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Salt","1kg",40,"You can give some option for types of eggplant if it is mandatory."
+"b7514333-d231-4679-8e63-b157f552a420",2024-12-14,"05:13:42","d547544b4104adf9c8861778073e43bc","Rajshahi","Lentil","1kg",110,"You can give some option for types of eggplant if it is mandatory."
+"d2224997-eb09-4d6f-ad8c-501702c8349e",2024-12-14,"06:36:30","3f79451882db96a21d00211e6733ed69","Dhaka","Soybean Oil","1L",200,NA
+"d2224997-eb09-4d6f-ad8c-501702c8349e",2024-12-14,"06:36:30","3f79451882db96a21d00211e6733ed69","Dhaka","Eggs","4 eggs",50,NA
+"d2224997-eb09-4d6f-ad8c-501702c8349e",2024-12-14,"06:36:30","3f79451882db96a21d00211e6733ed69","Dhaka","Chicken","1kg",300,NA
+"1525439c-f474-4598-98e0-648b57b5550c",2024-12-14,"13:46:04","f73147df75234144d55243229ca6726b","Pabna","Rice","1kg",70,NA
+"1525439c-f474-4598-98e0-648b57b5550c",2024-12-14,"13:46:04","f73147df75234144d55243229ca6726b","Pabna","Flour","1kg",53,NA
+"1525439c-f474-4598-98e0-648b57b5550c",2024-12-14,"13:46:04","f73147df75234144d55243229ca6726b","Pabna","Soybean Oil","1L",155,NA
+"1525439c-f474-4598-98e0-648b57b5550c",2024-12-14,"13:46:04","f73147df75234144d55243229ca6726b","Pabna","Lentil","1kg",160,NA
+"1525439c-f474-4598-98e0-648b57b5550c",2024-12-14,"13:46:04","f73147df75234144d55243229ca6726b","Pabna","Eggs","4 eggs",50,NA
+"1525439c-f474-4598-98e0-648b57b5550c",2024-12-14,"13:46:04","f73147df75234144d55243229ca6726b","Pabna","Sugar","1kg",140,NA
+"1525439c-f474-4598-98e0-648b57b5550c",2024-12-14,"13:46:04","f73147df75234144d55243229ca6726b","Pabna","Salt","1kg",40,NA
+"1525439c-f474-4598-98e0-648b57b5550c",2024-12-14,"13:46:04","f73147df75234144d55243229ca6726b","Pabna","Chicken","1kg",350,NA
+"1525439c-f474-4598-98e0-648b57b5550c",2024-12-14,"13:46:04","f73147df75234144d55243229ca6726b","Pabna","Potato","1kg",70,NA
+"1525439c-f474-4598-98e0-648b57b5550c",2024-12-14,"13:46:04","f73147df75234144d55243229ca6726b","Pabna","Eggplant","1kg",50,NA
+"1060be3c-c5e8-4d8f-8d80-3da4d21ec5c1",2024-12-14,"15:05:30","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Potato","1kg",100,NA
+"1060be3c-c5e8-4d8f-8d80-3da4d21ec5c1",2024-12-14,"15:05:30","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Onion","1kg",100,NA
+"1060be3c-c5e8-4d8f-8d80-3da4d21ec5c1",2024-12-14,"15:05:30","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Eggplant","1kg",50,NA
+"1060be3c-c5e8-4d8f-8d80-3da4d21ec5c1",2024-12-14,"15:05:30","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Green Chilli","1kg",80,NA
+"1060be3c-c5e8-4d8f-8d80-3da4d21ec5c1",2024-12-14,"15:05:30","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Eggs","4 eggs",46,NA
+"03d65280-cf0d-4bd4-bfe8-64f171a50a13",2024-12-14,"15:06:43","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Potato","1kg",100,NA
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Rice","1kg",66,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Flour","1kg",56,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Lentil","1kg",140,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Soybean Oil","1L",173,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Salt","1kg",60,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Sugar","1kg",175,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Eggs","4 eggs",50,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Chicken","1kg",160,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Potato","1kg",70,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Eggplant","1kg",80,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Onion","1kg",80,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"ec8080d2-463e-4e0a-8be4-95080ddd775a",2024-12-14,"16:28:54","572d1680512266ab142dd3e235069a1f","Rajshahi","Green Chilli","1kg",300,"দ্রব্যমূল্যের উর্ধ্বগতির ফলে মানুষের পুষ্টি চাহিদা পূরণ হচ্ছে না। বাজারে সিন্ডিকেট ভেঙে এখনই সময় দ্রব্যমূল্যের লাগাম টানা।"
+"abd44c22-82fd-495c-a375-8363add3029d",2024-12-14,"17:45:45","a22c2220c8033db07993626412442c21","Chittagong","Eggs","4 eggs",52,"These goods are very essential for everyday's purpose.I suffer a lot to buy these goods because these goods are sold with exceedingly high price.I will be beneficial if these goods are sold with a reasonable price."
+"abd44c22-82fd-495c-a375-8363add3029d",2024-12-14,"17:45:45","a22c2220c8033db07993626412442c21","Chittagong","Chicken","1kg",180,"These goods are very essential for everyday's purpose.I suffer a lot to buy these goods because these goods are sold with exceedingly high price.I will be beneficial if these goods are sold with a reasonable price."
+"abd44c22-82fd-495c-a375-8363add3029d",2024-12-14,"17:45:45","a22c2220c8033db07993626412442c21","Chittagong","Potato","1kg",120,"These goods are very essential for everyday's purpose.I suffer a lot to buy these goods because these goods are sold with exceedingly high price.I will be beneficial if these goods are sold with a reasonable price."
+"abd44c22-82fd-495c-a375-8363add3029d",2024-12-14,"17:45:45","a22c2220c8033db07993626412442c21","Chittagong","Onion","1kg",110,"These goods are very essential for everyday's purpose.I suffer a lot to buy these goods because these goods are sold with exceedingly high price.I will be beneficial if these goods are sold with a reasonable price."
+"9d246480-ccca-426d-85be-8037fc3553dc",2024-12-15,"12:50:21","fe131476aa453d8177177dbc868e8265","Rajshahi","Rice","1kg",60,NA
+"9d246480-ccca-426d-85be-8037fc3553dc",2024-12-15,"12:50:21","fe131476aa453d8177177dbc868e8265","Rajshahi","Lentil","1kg",110,NA
+"9d246480-ccca-426d-85be-8037fc3553dc",2024-12-15,"12:50:21","fe131476aa453d8177177dbc868e8265","Rajshahi","Soybean Oil","1L",190,NA
+"9d246480-ccca-426d-85be-8037fc3553dc",2024-12-15,"12:50:21","fe131476aa453d8177177dbc868e8265","Rajshahi","Salt","1kg",40,NA
+"9d246480-ccca-426d-85be-8037fc3553dc",2024-12-15,"12:50:21","fe131476aa453d8177177dbc868e8265","Rajshahi","Eggs","4 eggs",44,NA
+"9d246480-ccca-426d-85be-8037fc3553dc",2024-12-15,"12:50:21","fe131476aa453d8177177dbc868e8265","Rajshahi","Potato","1kg",80,NA
+"9d246480-ccca-426d-85be-8037fc3553dc",2024-12-15,"12:50:21","fe131476aa453d8177177dbc868e8265","Rajshahi","Onion","1kg",100,NA
+"9d246480-ccca-426d-85be-8037fc3553dc",2024-12-15,"12:50:21","fe131476aa453d8177177dbc868e8265","Rajshahi","Green Chilli","1kg",100,NA
+"19b375a0-13f7-4f6d-b49d-beda2e3ff268",2024-12-15,"12:52:58","fe131476aa453d8177177dbc868e8265","Rajshahi","Rice","1kg",60,NA
+"19b375a0-13f7-4f6d-b49d-beda2e3ff268",2024-12-15,"12:52:58","fe131476aa453d8177177dbc868e8265","Rajshahi","Soybean Oil","1L",190,NA
+"19b375a0-13f7-4f6d-b49d-beda2e3ff268",2024-12-15,"12:52:58","fe131476aa453d8177177dbc868e8265","Rajshahi","Lentil","1kg",110,NA
+"19b375a0-13f7-4f6d-b49d-beda2e3ff268",2024-12-15,"12:52:58","fe131476aa453d8177177dbc868e8265","Rajshahi","Salt","1kg",40,NA
+"19b375a0-13f7-4f6d-b49d-beda2e3ff268",2024-12-15,"12:52:58","fe131476aa453d8177177dbc868e8265","Rajshahi","Eggs","4 eggs",44,NA
+"19b375a0-13f7-4f6d-b49d-beda2e3ff268",2024-12-15,"12:52:58","fe131476aa453d8177177dbc868e8265","Rajshahi","Potato","1kg",80,NA
+"19b375a0-13f7-4f6d-b49d-beda2e3ff268",2024-12-15,"12:52:58","fe131476aa453d8177177dbc868e8265","Rajshahi","Onion","1kg",100,NA
+"19b375a0-13f7-4f6d-b49d-beda2e3ff268",2024-12-15,"12:52:58","fe131476aa453d8177177dbc868e8265","Rajshahi","Green Chilli","1kg",100,NA
+"19b375a0-13f7-4f6d-b49d-beda2e3ff268",2024-12-15,"12:52:58","fe131476aa453d8177177dbc868e8265","Rajshahi","Chicken","1kg",175,NA
+"e31975a8-1058-4d3a-bc59-56b284f266f2",2024-12-15,"12:53:37","fe131476aa453d8177177dbc868e8265","Rajshahi","Potato","1kg",100,NA
+"c9726901-0da6-4494-8c5b-044483bd8db8",2024-12-15,"15:55:59","6e6f9ef504adb0630093d8a5d719a011","Gazipur","Flour","1kg",60,NA
+"c9726901-0da6-4494-8c5b-044483bd8db8",2024-12-15,"15:55:59","6e6f9ef504adb0630093d8a5d719a011","Gazipur","Chicken","1kg",130,NA
+"d2b19262-cab9-48f6-88e6-5895aef010a9",2024-12-15,"17:09:11","8f727e87f94104529913eb9891509597","Gazipur","Eggs","4 eggs",50,NA
+"f9231d1c-e17d-42db-9443-fa8b88b1f53b",2024-12-15,"17:39:30","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Onion","1kg",80,"দাম আগের তুলনায় অনেক বেশি। যদিও গত সপ্তাহের তুলনায় একটু কম।"
+"f9231d1c-e17d-42db-9443-fa8b88b1f53b",2024-12-15,"17:39:30","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Green Chilli","1kg",80,"দাম আগের তুলনায় অনেক বেশি। যদিও গত সপ্তাহের তুলনায় একটু কম।"
+"f9231d1c-e17d-42db-9443-fa8b88b1f53b",2024-12-15,"17:39:30","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Potato","1kg",75,"দাম আগের তুলনায় অনেক বেশি। যদিও গত সপ্তাহের তুলনায় একটু কম।"
+"f9231d1c-e17d-42db-9443-fa8b88b1f53b",2024-12-15,"17:39:30","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Eggs","4 eggs",50,"দাম আগের তুলনায় অনেক বেশি। যদিও গত সপ্তাহের তুলনায় একটু কম।"
+"5143d867-9747-43b1-9550-ca01d9a30337",2024-12-15,"17:41:04","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Rice","1kg",160,NA
+"fe20c8d6-dbf4-435b-8b96-dd90bf4b3010",2024-12-17,"03:41:34","0859ee7098b0fcd674aeb822126f986a","Dhaka","Green Chilli","1kg",100,NA
+"fe20c8d6-dbf4-435b-8b96-dd90bf4b3010",2024-12-17,"03:41:34","0859ee7098b0fcd674aeb822126f986a","Dhaka","Onion","1kg",120,NA
+"fe20c8d6-dbf4-435b-8b96-dd90bf4b3010",2024-12-17,"03:41:34","0859ee7098b0fcd674aeb822126f986a","Dhaka","Eggs","4 eggs",46,NA
+"fe20c8d6-dbf4-435b-8b96-dd90bf4b3010",2024-12-17,"03:41:34","0859ee7098b0fcd674aeb822126f986a","Dhaka","Potato","1kg",76,NA
+"fe20c8d6-dbf4-435b-8b96-dd90bf4b3010",2024-12-17,"03:41:34","0859ee7098b0fcd674aeb822126f986a","Dhaka","Chicken","1kg",355,NA
+"fe20c8d6-dbf4-435b-8b96-dd90bf4b3010",2024-12-17,"03:41:34","0859ee7098b0fcd674aeb822126f986a","Dhaka","Salt","1kg",42,NA
+"fe20c8d6-dbf4-435b-8b96-dd90bf4b3010",2024-12-17,"03:41:34","0859ee7098b0fcd674aeb822126f986a","Dhaka","Soybean Oil","1L",167,NA
+"fe20c8d6-dbf4-435b-8b96-dd90bf4b3010",2024-12-17,"03:41:34","0859ee7098b0fcd674aeb822126f986a","Dhaka","Flour","1kg",70,NA
+"fe20c8d6-dbf4-435b-8b96-dd90bf4b3010",2024-12-17,"03:41:34","0859ee7098b0fcd674aeb822126f986a","Dhaka","Lentil","1kg",120,NA
+"42b237c2-4fe3-489e-8d23-bdfc381a31cf",2024-12-17,"04:42:32","886e897b7c9a8a66297d024a696f2c93","Bandarban","Rice","1kg",52,"Good"
+"42b237c2-4fe3-489e-8d23-bdfc381a31cf",2024-12-17,"04:42:32","886e897b7c9a8a66297d024a696f2c93","Bandarban","Lentil","1kg",120,"Good"
+"42b237c2-4fe3-489e-8d23-bdfc381a31cf",2024-12-17,"04:42:32","886e897b7c9a8a66297d024a696f2c93","Bandarban","Salt","1kg",50,"Good"
+"42b237c2-4fe3-489e-8d23-bdfc381a31cf",2024-12-17,"04:42:32","886e897b7c9a8a66297d024a696f2c93","Bandarban","Soybean Oil","1L",200,"Good"
+"42b237c2-4fe3-489e-8d23-bdfc381a31cf",2024-12-17,"04:42:32","886e897b7c9a8a66297d024a696f2c93","Bandarban","Sugar","1kg",140,"Good"
+"42b237c2-4fe3-489e-8d23-bdfc381a31cf",2024-12-17,"04:42:32","886e897b7c9a8a66297d024a696f2c93","Bandarban","Eggs","4 eggs",52,"Good"
+"42b237c2-4fe3-489e-8d23-bdfc381a31cf",2024-12-17,"04:42:32","886e897b7c9a8a66297d024a696f2c93","Bandarban","Potato","1kg",80,"Good"
+"42b237c2-4fe3-489e-8d23-bdfc381a31cf",2024-12-17,"04:42:32","886e897b7c9a8a66297d024a696f2c93","Bandarban","Eggplant","1kg",50,"Good"
+"42b237c2-4fe3-489e-8d23-bdfc381a31cf",2024-12-17,"04:42:32","886e897b7c9a8a66297d024a696f2c93","Bandarban","Onion","1kg",220,"Good"
+"42b237c2-4fe3-489e-8d23-bdfc381a31cf",2024-12-17,"04:42:32","886e897b7c9a8a66297d024a696f2c93","Bandarban","Green Chilli","1kg",60,"Good"
+"2a402d5d-568b-44cf-9993-503758745d37",2024-12-17,"13:37:44","cace0976269890ca006283f9703bae92","Jessore","Rice","1kg",70,NA
+"92938f7d-9079-4835-8b8c-2977f4dd6e4a",2024-12-17,"15:12:02","7ceac72b25b304a7f5f0783c2498e89a","Dhaka","Rice","1kg",63,"The purchase price depends on the quantity to be purchased. So I think this option could be added."
+"92938f7d-9079-4835-8b8c-2977f4dd6e4a",2024-12-17,"15:12:02","7ceac72b25b304a7f5f0783c2498e89a","Dhaka","Soybean Oil","1L",175,"The purchase price depends on the quantity to be purchased. So I think this option could be added."
+"92938f7d-9079-4835-8b8c-2977f4dd6e4a",2024-12-17,"15:12:02","7ceac72b25b304a7f5f0783c2498e89a","Dhaka","Eggs","4 eggs",50,"The purchase price depends on the quantity to be purchased. So I think this option could be added."
+"92938f7d-9079-4835-8b8c-2977f4dd6e4a",2024-12-17,"15:12:02","7ceac72b25b304a7f5f0783c2498e89a","Dhaka","Potato","1kg",75,"The purchase price depends on the quantity to be purchased. So I think this option could be added."
+"92938f7d-9079-4835-8b8c-2977f4dd6e4a",2024-12-17,"15:12:02","7ceac72b25b304a7f5f0783c2498e89a","Dhaka","Onion","1kg",80,"The purchase price depends on the quantity to be purchased. So I think this option could be added."
+"92938f7d-9079-4835-8b8c-2977f4dd6e4a",2024-12-17,"15:12:02","7ceac72b25b304a7f5f0783c2498e89a","Dhaka","Green Chilli","1kg",120,"The purchase price depends on the quantity to be purchased. So I think this option could be added."
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Rice","1kg",72,NA
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Flour","1kg",44,NA
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Lentil","1kg",130,NA
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Salt","1kg",42,NA
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Soybean Oil","1L",170,NA
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Sugar","1kg",130,NA
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Eggs","4 eggs",48,NA
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Chicken","1kg",165,NA
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Potato","1kg",80,NA
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Eggplant","1kg",80,NA
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Onion","1kg",110,NA
+"ddf9279c-9050-4a1b-aa80-7921fc510bcd",2024-12-17,"16:48:40","2e714926004c88ebae4732420decc6ad","Rajshahi","Green Chilli","1kg",250,NA
+"d977bc28-f75d-4f41-bf13-1ff2b812055b",2024-12-17,"17:38:38","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Chicken","1kg",160,NA
+"d977bc28-f75d-4f41-bf13-1ff2b812055b",2024-12-17,"17:38:38","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Eggplant","1kg",60,NA
+"d977bc28-f75d-4f41-bf13-1ff2b812055b",2024-12-17,"17:38:38","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Onion","1kg",90,NA
+"d977bc28-f75d-4f41-bf13-1ff2b812055b",2024-12-17,"17:38:38","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Green Chilli","1kg",1500,NA
+"b38f6524-8ae1-441b-b42d-44854c0fdb29",2024-12-17,"17:41:54","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Rice","1kg",68,NA
+"b38f6524-8ae1-441b-b42d-44854c0fdb29",2024-12-17,"17:41:54","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Chicken","1kg",260,NA
+"b38f6524-8ae1-441b-b42d-44854c0fdb29",2024-12-17,"17:41:54","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Onion","1kg",120,NA
+"bea6e2e5-c89d-4063-85e8-1c1151f07a1f",2024-12-18,"04:39:03","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Rice","1kg",68,"দাম নিয়ন্ত্রণে আনা দরকার"
+"bea6e2e5-c89d-4063-85e8-1c1151f07a1f",2024-12-18,"04:39:03","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Eggs","4 eggs",40,"দাম নিয়ন্ত্রণে আনা দরকার"
+"bea6e2e5-c89d-4063-85e8-1c1151f07a1f",2024-12-18,"04:39:03","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Potato","1kg",70,"দাম নিয়ন্ত্রণে আনা দরকার"
+"bea6e2e5-c89d-4063-85e8-1c1151f07a1f",2024-12-18,"04:39:03","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Onion","1kg",70,"দাম নিয়ন্ত্রণে আনা দরকার"
+"bea6e2e5-c89d-4063-85e8-1c1151f07a1f",2024-12-18,"04:39:03","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Green Chilli","1kg",60,"দাম নিয়ন্ত্রণে আনা দরকার"
+"51af0feb-b78e-4085-ac2c-85fecf7455b2",2024-12-18,"09:40:45","7559c00b13f4d46fd982b2b182878f9f","Dhaka","Soybean Oil","1L",175,NA
+"51af0feb-b78e-4085-ac2c-85fecf7455b2",2024-12-18,"09:40:45","7559c00b13f4d46fd982b2b182878f9f","Dhaka","Eggs","4 eggs",45,NA
+"51af0feb-b78e-4085-ac2c-85fecf7455b2",2024-12-18,"09:40:45","7559c00b13f4d46fd982b2b182878f9f","Dhaka","Potato","1kg",80,NA
+"51af0feb-b78e-4085-ac2c-85fecf7455b2",2024-12-18,"09:40:45","7559c00b13f4d46fd982b2b182878f9f","Dhaka","Onion","1kg",100,NA
+"3d87201b-4b22-48f8-a1b9-2d0855a5667b",2024-12-18,"15:20:59","99bb15d88bd10d920ac1935d4178f920","Rangpur","Rice","1kg",78,"Add quantity"
+"3d87201b-4b22-48f8-a1b9-2d0855a5667b",2024-12-18,"15:20:59","99bb15d88bd10d920ac1935d4178f920","Rangpur","Flour","1kg",70,"Add quantity"
+"3d87201b-4b22-48f8-a1b9-2d0855a5667b",2024-12-18,"15:20:59","99bb15d88bd10d920ac1935d4178f920","Rangpur","Lentil","1kg",120,"Add quantity"
+"3d87201b-4b22-48f8-a1b9-2d0855a5667b",2024-12-18,"15:20:59","99bb15d88bd10d920ac1935d4178f920","Rangpur","Soybean Oil","1L",210,"Add quantity"
+"3d87201b-4b22-48f8-a1b9-2d0855a5667b",2024-12-18,"15:20:59","99bb15d88bd10d920ac1935d4178f920","Rangpur","Salt","1kg",40,"Add quantity"
+"3d87201b-4b22-48f8-a1b9-2d0855a5667b",2024-12-18,"15:20:59","99bb15d88bd10d920ac1935d4178f920","Rangpur","Sugar","1kg",136,"Add quantity"
+"3d87201b-4b22-48f8-a1b9-2d0855a5667b",2024-12-18,"15:20:59","99bb15d88bd10d920ac1935d4178f920","Rangpur","Eggs","4 eggs",46,"Add quantity"
+"3d87201b-4b22-48f8-a1b9-2d0855a5667b",2024-12-18,"15:20:59","99bb15d88bd10d920ac1935d4178f920","Rangpur","Chicken","1kg",225,"Add quantity"
+"3d87201b-4b22-48f8-a1b9-2d0855a5667b",2024-12-18,"15:20:59","99bb15d88bd10d920ac1935d4178f920","Rangpur","Potato","1kg",75,"Add quantity"
+"3d87201b-4b22-48f8-a1b9-2d0855a5667b",2024-12-18,"15:20:59","99bb15d88bd10d920ac1935d4178f920","Rangpur","Onion","1kg",120,"Add quantity"
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Rice","1kg",60,NA
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Flour","1kg",45,NA
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Lentil","1kg",130,NA
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Soybean Oil","1L",200,NA
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Salt","1kg",40,NA
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Sugar","1kg",130,NA
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Eggs","4 eggs",46,NA
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Chicken","1kg",170,NA
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Potato","1kg",80,NA
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Eggplant","1kg",70,NA
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Onion","1kg",80,NA
+"2a796a9f-9e85-4613-b89a-524ba8699a08",2024-12-18,"16:12:47","592b044c1703d539761e02611764d8ba","Rajshahi","Green Chilli","1kg",80,NA
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Rice","1kg",78,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Flour","1kg",60,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Lentil","1kg",70,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Soybean Oil","1L",185,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Salt","1kg",50,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Sugar","1kg",120,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Eggs","4 eggs",48,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Chicken","1kg",180,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Potato","1kg",70,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Eggplant","1kg",60,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Onion","1kg",120,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"f8f521f7-fafd-415a-94de-b0b36ca46e14",2024-12-18,"17:22:12","a0c9335099245d8bbb3ca4e5ac7047bb","Rangpur","Green Chilli","1kg",80,"উর্দ্ধগতির এই বাজার মূল্য নিয়ন্ত্রণে আর সাধারণ জনগণের নাগালে অতীব জরুরি।"
+"fecc3487-cbf0-4630-96c9-fd69d1aff791",2024-12-18,"19:28:23","c15251cff68faccf4b27b37e8eb11447","Bagerhat","Rice","1kg",-6666666,"Testing, pls delete"
+"fecc3487-cbf0-4630-96c9-fd69d1aff791",2024-12-18,"19:28:23","c15251cff68faccf4b27b37e8eb11447","Bagerhat","Flour","1kg",5,"Testing, pls delete"
+"fecc3487-cbf0-4630-96c9-fd69d1aff791",2024-12-18,"19:28:23","c15251cff68faccf4b27b37e8eb11447","Bagerhat","Lentil","1kg",54,"Testing, pls delete"
+"8af9ac34-b94b-4cb9-a539-0ca188f5fc0f",2024-12-19,"03:31:32","da98aeea478e179817116d8e7c93f2ae","Chuadanga","Rice","1kg",56,NA
+"8af9ac34-b94b-4cb9-a539-0ca188f5fc0f",2024-12-19,"03:31:32","da98aeea478e179817116d8e7c93f2ae","Chuadanga","Eggs","4 eggs",48,NA
+"8af9ac34-b94b-4cb9-a539-0ca188f5fc0f",2024-12-19,"03:31:32","da98aeea478e179817116d8e7c93f2ae","Chuadanga","Lentil","1kg",105,NA
+"8af9ac34-b94b-4cb9-a539-0ca188f5fc0f",2024-12-19,"03:31:32","da98aeea478e179817116d8e7c93f2ae","Chuadanga","Onion","1kg",120,NA
+"8af9ac34-b94b-4cb9-a539-0ca188f5fc0f",2024-12-19,"03:31:32","da98aeea478e179817116d8e7c93f2ae","Chuadanga","Green Chilli","1kg",60,NA
+"4d1f467c-3005-4609-a1d6-f0ae817142f8",2024-12-19,"10:35:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Lentil","1kg",130,NA
+"4d1f467c-3005-4609-a1d6-f0ae817142f8",2024-12-19,"10:35:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Soybean Oil","1L",195,NA
+"4d1f467c-3005-4609-a1d6-f0ae817142f8",2024-12-19,"10:35:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Sugar","1kg",130,NA
+"4d1f467c-3005-4609-a1d6-f0ae817142f8",2024-12-19,"10:35:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Eggs","4 eggs",48,NA
+"4d1f467c-3005-4609-a1d6-f0ae817142f8",2024-12-19,"10:35:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Chicken","1kg",180,NA
+"4d1f467c-3005-4609-a1d6-f0ae817142f8",2024-12-19,"10:35:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Potato","1kg",80,NA
+"4d1f467c-3005-4609-a1d6-f0ae817142f8",2024-12-19,"10:35:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Eggplant","1kg",50,NA
+"4d1f467c-3005-4609-a1d6-f0ae817142f8",2024-12-19,"10:35:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Onion","1kg",80,NA
+"4d1f467c-3005-4609-a1d6-f0ae817142f8",2024-12-19,"10:35:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Green Chilli","1kg",80,NA
+"00b4d60d-22e6-4059-b2ba-77674661e61a",2024-12-19,"12:24:40","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Potato","1kg",70,"Dam onek beshi. Bazar wise dam vinno"
+"00b4d60d-22e6-4059-b2ba-77674661e61a",2024-12-19,"12:24:40","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Chicken","1kg",170,"Dam onek beshi. Bazar wise dam vinno"
+"00b4d60d-22e6-4059-b2ba-77674661e61a",2024-12-19,"12:24:40","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Rice","1kg",65,"Dam onek beshi. Bazar wise dam vinno"
+"f82eabf5-76ab-4dea-93bb-d1a5d300c4c4",2024-12-19,"12:54:18","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Rice","1kg",65,NA
+"f82eabf5-76ab-4dea-93bb-d1a5d300c4c4",2024-12-19,"12:54:18","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Lentil","1kg",160,NA
+"f82eabf5-76ab-4dea-93bb-d1a5d300c4c4",2024-12-19,"12:54:18","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Soybean Oil","1L",200,NA
+"f82eabf5-76ab-4dea-93bb-d1a5d300c4c4",2024-12-19,"12:54:18","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Chicken","1kg",165,NA
+"f82eabf5-76ab-4dea-93bb-d1a5d300c4c4",2024-12-19,"12:54:18","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Potato","1kg",60,NA
+"f82eabf5-76ab-4dea-93bb-d1a5d300c4c4",2024-12-19,"12:54:18","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Onion","1kg",60,NA
+"f82eabf5-76ab-4dea-93bb-d1a5d300c4c4",2024-12-19,"12:54:18","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Green Chilli","1kg",50,NA
+"dcf14ec7-b624-47ee-ba5f-a4f2cd221479",2024-12-19,"12:58:19","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Green Chilli","1kg",80,NA
+"dcf14ec7-b624-47ee-ba5f-a4f2cd221479",2024-12-19,"12:58:19","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Onion","1kg",140,NA
+"dcf14ec7-b624-47ee-ba5f-a4f2cd221479",2024-12-19,"12:58:19","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Chicken","1kg",170,NA
+"ec1635b1-d7a2-4b55-93c9-3cba1d5db6f6",2024-12-19,"13:49:46","7ceac72b25b304a7f5f0783c2498e89a","Dhaka","Lentil","1kg",110,"For lentil, it has two varieties deshi and indian. It was indian."
+"ec1635b1-d7a2-4b55-93c9-3cba1d5db6f6",2024-12-19,"13:49:46","7ceac72b25b304a7f5f0783c2498e89a","Dhaka","Chicken","1kg",190,"For lentil, it has two varieties deshi and indian. It was indian."
+"ec1635b1-d7a2-4b55-93c9-3cba1d5db6f6",2024-12-19,"13:49:46","7ceac72b25b304a7f5f0783c2498e89a","Dhaka","Potato","1kg",75,"For lentil, it has two varieties deshi and indian. It was indian."
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Rice","1kg",68,NA
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Flour","1kg",60,NA
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Soybean Oil","1L",180,NA
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Salt","1kg",40,NA
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Eggs","4 eggs",48,NA
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Chicken","1kg",200,NA
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Potato","1kg",90,NA
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Eggplant","1kg",60,NA
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Onion","1kg",80,NA
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Lentil","1kg",130,NA
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Green Chilli","1kg",80,NA
+"4646cc18-0584-4ac0-a3b3-3dfb41199a31",2024-12-19,"14:57:45","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Sugar","1kg",130,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Rice","1kg",68,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Flour","1kg",42,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Lentil","1kg",130,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Soybean Oil","1L",170,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Salt","1kg",45,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Sugar","1kg",150,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Eggs","4 eggs",45,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Chicken","1kg",500,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Potato","1kg",70,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Eggplant","1kg",60,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Onion","1kg",60,NA
+"c59399a8-5d15-4ccc-bc19-d435d9737aa8",2024-12-19,"16:27:13","fae74bc76cf6016774eb072b7ad97bb8","Kushtia","Green Chilli","1kg",80,NA
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Rice","1kg",70,"তুলনামূলক বাড়তি দাম।"
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Soybean Oil","1L",172,"তুলনামূলক বাড়তি দাম।"
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Salt","1kg",38,"তুলনামূলক বাড়তি দাম।"
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Sugar","1kg",125,"তুলনামূলক বাড়তি দাম।"
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Eggs","4 eggs",50,"তুলনামূলক বাড়তি দাম।"
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Flour","1kg",48,"তুলনামূলক বাড়তি দাম।"
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Lentil","1kg",140,"তুলনামূলক বাড়তি দাম।"
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Potato","1kg",100,"তুলনামূলক বাড়তি দাম।"
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Chicken","1kg",250,"তুলনামূলক বাড়তি দাম।"
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Eggplant","1kg",50,"তুলনামূলক বাড়তি দাম।"
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Onion","1kg",120,"তুলনামূলক বাড়তি দাম।"
+"84b4a7e3-775a-4db0-af3f-7ff8a526fd9d",2024-12-19,"16:38:34","440341c3c63400d2681133eca75ae6d4","Chuadanga","Green Chilli","1kg",110,"তুলনামূলক বাড়তি দাম।"
+"ac519bf2-ca0d-4936-ab29-ef4186c427a4",2024-12-19,"18:53:16","3166dcb07fff37f2ac8d17c4c940f8f5","Rajshahi","Rice","1kg",80,NA
+"ac519bf2-ca0d-4936-ab29-ef4186c427a4",2024-12-19,"18:53:16","3166dcb07fff37f2ac8d17c4c940f8f5","Rajshahi","Eggs","4 eggs",46,NA
+"ac519bf2-ca0d-4936-ab29-ef4186c427a4",2024-12-19,"18:53:16","3166dcb07fff37f2ac8d17c4c940f8f5","Rajshahi","Chicken","1kg",165,NA
+"ac519bf2-ca0d-4936-ab29-ef4186c427a4",2024-12-19,"18:53:16","3166dcb07fff37f2ac8d17c4c940f8f5","Rajshahi","Potato","1kg",75,NA
+"ac519bf2-ca0d-4936-ab29-ef4186c427a4",2024-12-19,"18:53:16","3166dcb07fff37f2ac8d17c4c940f8f5","Rajshahi","Onion","1kg",110,NA
+"ac519bf2-ca0d-4936-ab29-ef4186c427a4",2024-12-19,"18:53:16","3166dcb07fff37f2ac8d17c4c940f8f5","Rajshahi","Green Chilli","1kg",80,NA
+"c7f0a9c6-50b2-49de-8b36-02d11b06c9d6",2024-12-20,"03:39:20","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Rice","1kg",68,"এই ডাটা টা একজন ভাতের হোটেল ব্যবসায়ীর কাছ থেকে নেয়া। ওনি মোটামুটি পাইকারি rate এ চাল টি ক্রয় করেন। খুচরা আর পাইকারি rate এর মধ্যে কিছু difference থাকে। এই differences টা বিবেচনা করলে, পণ্যটি পাইকারি/ খুচরা ক্রয় করেছে এটার অপশন রাখা যায় কি?"
+"23469788-b09a-47ac-b461-134b6363aa58",2024-12-20,"08:21:58","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Soybean Oil","1L",170,NA
+"23469788-b09a-47ac-b461-134b6363aa58",2024-12-20,"08:21:58","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Chicken","1kg",180,NA
+"23469788-b09a-47ac-b461-134b6363aa58",2024-12-20,"08:21:58","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Onion","1kg",60,NA
+"23469788-b09a-47ac-b461-134b6363aa58",2024-12-20,"08:21:58","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Green Chilli","1kg",60,NA
+"6018b470-99a4-4d27-b1d3-a3d7b4181290",2024-12-20,"12:24:06","f3798a91ad0d80d42d9454a067bf8e79","Naogaon","Rice","1kg",70,NA
+"6018b470-99a4-4d27-b1d3-a3d7b4181290",2024-12-20,"12:24:06","f3798a91ad0d80d42d9454a067bf8e79","Naogaon","Green Chilli","1kg",80,NA
+"6018b470-99a4-4d27-b1d3-a3d7b4181290",2024-12-20,"12:24:06","f3798a91ad0d80d42d9454a067bf8e79","Naogaon","Onion","1kg",80,NA
+"6018b470-99a4-4d27-b1d3-a3d7b4181290",2024-12-20,"12:24:06","f3798a91ad0d80d42d9454a067bf8e79","Naogaon","Potato","1kg",70,NA
+"6018b470-99a4-4d27-b1d3-a3d7b4181290",2024-12-20,"12:24:06","f3798a91ad0d80d42d9454a067bf8e79","Naogaon","Lentil","1kg",130,NA
+"e7ceb2ea-d590-490d-948a-3be6f2a46554",2024-12-20,"15:22:38","da557a26314e56428547eb9e7598d675","Bogra","Eggs","4 eggs",45,NA
+"0570df77-01cf-4769-9c06-58801d3e56da",2024-12-21,"08:53:47","2b8427508a9e3bcf9e579578f6629e08","Rajshahi","Chicken","1kg",190,NA
+"8612fcfc-368e-4c9f-a1a5-a9562813b98e",2024-12-21,"11:56:21","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Eggs","4 eggs",44,NA
+"8612fcfc-368e-4c9f-a1a5-a9562813b98e",2024-12-21,"11:56:21","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Flour","1kg",43,NA
+"8612fcfc-368e-4c9f-a1a5-a9562813b98e",2024-12-21,"11:56:21","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Sugar","1kg",135,NA
+"1692dbc9-50cc-4fc0-8259-ab12afa8b12c",2024-12-21,"17:12:54","f0a655c83df418c338ce9002265022e7","Dhaka","Rice","1kg",80,NA
+"1692dbc9-50cc-4fc0-8259-ab12afa8b12c",2024-12-21,"17:12:54","f0a655c83df418c338ce9002265022e7","Dhaka","Flour","1kg",40,NA
+"1692dbc9-50cc-4fc0-8259-ab12afa8b12c",2024-12-21,"17:12:54","f0a655c83df418c338ce9002265022e7","Dhaka","Soybean Oil","1L",170,NA
+"1692dbc9-50cc-4fc0-8259-ab12afa8b12c",2024-12-21,"17:12:54","f0a655c83df418c338ce9002265022e7","Dhaka","Eggs","4 eggs",50,NA
+"1692dbc9-50cc-4fc0-8259-ab12afa8b12c",2024-12-21,"17:12:54","f0a655c83df418c338ce9002265022e7","Dhaka","Chicken","1kg",220,NA
+"1692dbc9-50cc-4fc0-8259-ab12afa8b12c",2024-12-21,"17:12:54","f0a655c83df418c338ce9002265022e7","Dhaka","Potato","1kg",50,NA
+"1692dbc9-50cc-4fc0-8259-ab12afa8b12c",2024-12-21,"17:12:54","f0a655c83df418c338ce9002265022e7","Dhaka","Eggplant","1kg",50,NA
+"1692dbc9-50cc-4fc0-8259-ab12afa8b12c",2024-12-21,"17:12:54","f0a655c83df418c338ce9002265022e7","Dhaka","Onion","1kg",90,NA
+"37ff0541-0c37-467a-b06e-c4dfa426cc66",2024-12-21,"17:30:03","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Rice","1kg",65,NA
+"37ff0541-0c37-467a-b06e-c4dfa426cc66",2024-12-21,"17:30:03","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Flour","1kg",70,NA
+"37ff0541-0c37-467a-b06e-c4dfa426cc66",2024-12-21,"17:30:03","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Lentil","1kg",135,NA
+"37ff0541-0c37-467a-b06e-c4dfa426cc66",2024-12-21,"17:30:03","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Soybean Oil","1L",165,NA
+"37ff0541-0c37-467a-b06e-c4dfa426cc66",2024-12-21,"17:30:03","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Salt","1kg",42,NA
+"37ff0541-0c37-467a-b06e-c4dfa426cc66",2024-12-21,"17:30:03","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Eggs","4 eggs",48,NA
+"37ff0541-0c37-467a-b06e-c4dfa426cc66",2024-12-21,"17:30:03","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Chicken","1kg",300,NA
+"37ff0541-0c37-467a-b06e-c4dfa426cc66",2024-12-21,"17:30:03","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Potato","1kg",65,NA
+"37ff0541-0c37-467a-b06e-c4dfa426cc66",2024-12-21,"17:30:03","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Eggplant","1kg",50,NA
+"37ff0541-0c37-467a-b06e-c4dfa426cc66",2024-12-21,"17:30:03","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Onion","1kg",80,NA
+"37ff0541-0c37-467a-b06e-c4dfa426cc66",2024-12-21,"17:30:03","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Green Chilli","1kg",100,NA
+"ba7c47dd-9b06-4716-b3e9-286b22bb42b4",2024-12-21,"17:33:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Rice","1kg",72,NA
+"ba7c47dd-9b06-4716-b3e9-286b22bb42b4",2024-12-21,"17:33:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Flour","1kg",75,NA
+"ba7c47dd-9b06-4716-b3e9-286b22bb42b4",2024-12-21,"17:33:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Lentil","1kg",140,NA
+"ba7c47dd-9b06-4716-b3e9-286b22bb42b4",2024-12-21,"17:33:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Soybean Oil","1L",180,NA
+"ba7c47dd-9b06-4716-b3e9-286b22bb42b4",2024-12-21,"17:33:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Chicken","1kg",165,NA
+"ba7c47dd-9b06-4716-b3e9-286b22bb42b4",2024-12-21,"17:33:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Eggplant","1kg",55,NA
+"ba7c47dd-9b06-4716-b3e9-286b22bb42b4",2024-12-21,"17:33:24","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Onion","1kg",90,NA
+"b66cfbcb-dd5c-4de5-85fe-6b80012e530d",2024-12-22,"14:49:33","da98aeea478e179817116d8e7c93f2ae","Chuadanga","Rice","1kg",56,NA
+"b66cfbcb-dd5c-4de5-85fe-6b80012e530d",2024-12-22,"14:49:33","da98aeea478e179817116d8e7c93f2ae","Chuadanga","Soybean Oil","1L",172,NA
+"b66cfbcb-dd5c-4de5-85fe-6b80012e530d",2024-12-22,"14:49:33","da98aeea478e179817116d8e7c93f2ae","Chuadanga","Potato","1kg",70,NA
+"b66cfbcb-dd5c-4de5-85fe-6b80012e530d",2024-12-22,"14:49:33","da98aeea478e179817116d8e7c93f2ae","Chuadanga","Green Chilli","1kg",60,NA
+"fcd426ad-c73a-40fc-ab59-f0308180474f",2024-12-22,"15:20:00","4fae513bd1ff426ef54a61fe24c57671","Rajshahi","Chicken","1kg",165,NA
+"fcd426ad-c73a-40fc-ab59-f0308180474f",2024-12-22,"15:20:00","4fae513bd1ff426ef54a61fe24c57671","Rajshahi","Potato","1kg",80,NA
+"fcd426ad-c73a-40fc-ab59-f0308180474f",2024-12-22,"15:20:00","4fae513bd1ff426ef54a61fe24c57671","Rajshahi","Eggplant","1kg",50,NA
+"fcd426ad-c73a-40fc-ab59-f0308180474f",2024-12-22,"15:20:00","4fae513bd1ff426ef54a61fe24c57671","Rajshahi","Onion","1kg",100,NA
+"fcd426ad-c73a-40fc-ab59-f0308180474f",2024-12-22,"15:20:00","4fae513bd1ff426ef54a61fe24c57671","Rajshahi","Green Chilli","1kg",100,NA
+"2342d437-2ef6-4c6e-a565-9fa566c012c6",2024-12-23,"02:51:21","7ceac72b25b304a7f5f0783c2498e89a","Dhaka","Chicken","1kg",200,NA
+"2342d437-2ef6-4c6e-a565-9fa566c012c6",2024-12-23,"02:51:21","7ceac72b25b304a7f5f0783c2498e89a","Dhaka","Potato","1kg",80,NA
+"a5f6f11b-84bb-4e14-9996-4e574354330d",2024-12-23,"05:10:18","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Rice","1kg",90,NA
+"a5f6f11b-84bb-4e14-9996-4e574354330d",2024-12-23,"05:10:18","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Eggs","4 eggs",46,NA
+"a5f6f11b-84bb-4e14-9996-4e574354330d",2024-12-23,"05:10:18","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Potato","1kg",70,NA
+"94ba4f51-7d84-4c04-a74e-0304a116703e",2024-12-23,"19:00:30","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Onion","1kg",60,NA
+"94ba4f51-7d84-4c04-a74e-0304a116703e",2024-12-23,"19:00:30","4fae513bd1ff426ef54a61fe24c57671","Dinajpur","Potato","1kg",60,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Rice","1kg",65,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Flour","1kg",58,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Lentil","1kg",140,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Soybean Oil","1L",180,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Salt","1kg",45,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Sugar","1kg",150,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Eggs","4 eggs",52,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Chicken","1kg",180,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Potato","1kg",70,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Eggplant","1kg",60,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Onion","1kg",90,NA
+"2cded36d-9c5d-49d7-acec-e7ba6d7c0be5",2024-12-24,"00:57:37","b418c84c822c5c94b4d00209baf0a8ec","Cox'S Bazar","Green Chilli","1kg",120,NA
+"f2ef47cc-b6b9-48a9-8b67-f5c476aa8378",2024-12-24,"14:34:10","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Potato","1kg",65,NA
+"947aa9ce-5256-4f49-b3d3-4013d6f62810",2024-12-24,"14:35:20","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Eggs","4 eggs",44,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Rice","1kg",65,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Flour","1kg",45,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Lentil","1kg",100,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Soybean Oil","1L",210,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Salt","1kg",42,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Sugar","1kg",130,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Eggs","4 eggs",50,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Chicken","1kg",165,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Potato","1kg",70,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Eggplant","1kg",50,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Onion","1kg",70,NA
+"0ad68c9f-4ccc-4805-a070-aa1f3c20a455",2024-12-24,"16:09:57","fe131476aa453d8177177dbc868e8265","Comilla","Green Chilli","1kg",80,NA
+"4991e9a2-2be9-4a0a-8cf5-773e72cc80da",2024-12-25,"16:15:58","3664914227ca01da8f9ef9f8beafd0de","Magura","Eggs","4 eggs",48,NA
+"061af77e-cb04-4b69-a065-d64bcda61416",2024-12-25,"20:07:42","4967a500b3dfcc1bd2ff55e257da144b","Dhaka","Soybean Oil","1L",180,"Fresh Soybean Oil"
+"c0a0c551-1ab8-4094-a004-58822f1879a4",2024-12-26,"04:18:15","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Potato","1kg",60,"It was an unusual price at the Shaheb bazar market. Normally the price of onion is more than 110tk per kg. 
+The data is from 24th December 2024."
+"c0a0c551-1ab8-4094-a004-58822f1879a4",2024-12-26,"04:18:15","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Onion","1kg",60,"It was an unusual price at the Shaheb bazar market. Normally the price of onion is more than 110tk per kg. 
+The data is from 24th December 2024."
+"c000d8b9-9f01-4bc3-a388-d6702257a550",2024-12-26,"05:19:30","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Eggs","4 eggs",45,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Flour","1kg",40,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Rice","1kg",75,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Lentil","1kg",130,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Soybean Oil","1L",170,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Salt","1kg",40,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Sugar","1kg",130,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Eggs","4 eggs",45,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Chicken","1kg",160,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Potato","1kg",60,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Eggplant","1kg",40,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Onion","1kg",60,NA
+"58d9c42c-1188-46c3-a71e-6e260525d418",2024-12-26,"05:57:29","32b27bb857f6895822425dd993bb2ba0","Rajshahi","Green Chilli","1kg",80,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Rice","1kg",75,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Flour","1kg",65,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Lentil","1kg",110,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Soybean Oil","1L",200,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Salt","1kg",40,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Sugar","1kg",130,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Eggs","4 eggs",50,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Chicken","1kg",300,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Potato","1kg",60,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Eggplant","1kg",60,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Onion","1kg",90,NA
+"2cf3ab95-3d0b-4321-8988-a56986ec3fa3",2024-12-26,"06:33:06","b0fc6421227d3f112057cd5dda376f36","Barisal","Green Chilli","1kg",60,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Rice","1kg",80,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Flour","1kg",55,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Lentil","1kg",120,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Soybean Oil","1L",200,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Salt","1kg",40,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Sugar","1kg",145,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Eggs","4 eggs",60,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Potato","1kg",50,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Eggplant","1kg",70,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Onion","1kg",80,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Green Chilli","1kg",180,NA
+"b85ff01e-3e9b-4e7f-aa14-1a3f80fa90ca",2024-12-26,"11:51:08","99e66a42ebe1fb52c2e80253943a7649","Dhaka","Chicken","1kg",190,NA
+"ac11ee58-38aa-4ae8-b88c-57358b75698a",2024-12-26,"18:21:47","3664914227ca01da8f9ef9f8beafd0de","Rajshahi","Potato","1kg",55,NA
+"ac11ee58-38aa-4ae8-b88c-57358b75698a",2024-12-26,"18:21:47","3664914227ca01da8f9ef9f8beafd0de","Rajshahi","Green Chilli","1kg",80,NA
+"84751893-635a-410b-bd52-b736911ff443",2024-12-26,"18:45:39","878762455ac497963ccd6ef96aa1a6bc","Nawabganj","Green Chilli","1kg",80,NA
+"8a29a073-804d-4e26-ae4e-3984253c711b",2024-12-27,"01:53:19","572d1680512266ab142dd3e235069a1f","Gazipur","Flour","1kg",55,NA
+"8a29a073-804d-4e26-ae4e-3984253c711b",2024-12-27,"01:53:19","572d1680512266ab142dd3e235069a1f","Gazipur","Soybean Oil","1L",190,NA
+"8a29a073-804d-4e26-ae4e-3984253c711b",2024-12-27,"01:53:19","572d1680512266ab142dd3e235069a1f","Gazipur","Eggs","4 eggs",50,NA
+"8a29a073-804d-4e26-ae4e-3984253c711b",2024-12-27,"01:53:19","572d1680512266ab142dd3e235069a1f","Gazipur","Chicken","1kg",190,NA
+"8a29a073-804d-4e26-ae4e-3984253c711b",2024-12-27,"01:53:19","572d1680512266ab142dd3e235069a1f","Gazipur","Potato","1kg",70,NA
+"8a29a073-804d-4e26-ae4e-3984253c711b",2024-12-27,"01:53:19","572d1680512266ab142dd3e235069a1f","Gazipur","Green Chilli","1kg",60,NA
+"d61fed46-069d-4bf1-8208-7e16ca7ef942",2024-12-27,"02:13:01","fe131476aa453d8177177dbc868e8265","Comilla","Rice","1kg",65,NA
+"d61fed46-069d-4bf1-8208-7e16ca7ef942",2024-12-27,"02:13:01","fe131476aa453d8177177dbc868e8265","Comilla","Flour","1kg",45,NA
+"d61fed46-069d-4bf1-8208-7e16ca7ef942",2024-12-27,"02:13:01","fe131476aa453d8177177dbc868e8265","Comilla","Lentil","1kg",110,NA
+"d61fed46-069d-4bf1-8208-7e16ca7ef942",2024-12-27,"02:13:01","fe131476aa453d8177177dbc868e8265","Comilla","Soybean Oil","1L",205,NA
+"d61fed46-069d-4bf1-8208-7e16ca7ef942",2024-12-27,"02:13:01","fe131476aa453d8177177dbc868e8265","Comilla","Salt","1kg",40,NA
+"d61fed46-069d-4bf1-8208-7e16ca7ef942",2024-12-27,"02:13:01","fe131476aa453d8177177dbc868e8265","Comilla","Sugar","1kg",135,NA
+"d61fed46-069d-4bf1-8208-7e16ca7ef942",2024-12-27,"02:13:01","fe131476aa453d8177177dbc868e8265","Comilla","Eggs","4 eggs",48,NA
+"d61fed46-069d-4bf1-8208-7e16ca7ef942",2024-12-27,"02:13:01","fe131476aa453d8177177dbc868e8265","Comilla","Potato","1kg",70,NA
+"d61fed46-069d-4bf1-8208-7e16ca7ef942",2024-12-27,"02:13:01","fe131476aa453d8177177dbc868e8265","Comilla","Onion","1kg",60,NA
+"d61fed46-069d-4bf1-8208-7e16ca7ef942",2024-12-27,"02:13:01","fe131476aa453d8177177dbc868e8265","Comilla","Green Chilli","1kg",80,NA
+"4a96ae63-a93f-4830-bf9d-c4503b1389f1",2024-12-27,"09:21:19","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Green Chilli","1kg",60,"This price was on offer from 23-26 December. (VAT Excluded)"
+"e9254abf-a3ef-4ef9-b786-51aed81f9102",2024-12-28,"01:42:22","fda44baf452965c9df6c0ec4a0a24241","Dhaka","Onion","1kg",120,NA
+"9e755371-50f4-4956-a928-1ba72c9b18f1",2024-12-28,"12:13:24","32d18ae835e669ee7a1c08eb59082765","Nawabganj","Soybean Oil","1L",172,NA
+"9e755371-50f4-4956-a928-1ba72c9b18f1",2024-12-28,"12:13:24","32d18ae835e669ee7a1c08eb59082765","Nawabganj","Salt","1kg",40,NA
+"9e755371-50f4-4956-a928-1ba72c9b18f1",2024-12-28,"12:13:24","32d18ae835e669ee7a1c08eb59082765","Nawabganj","Eggs","4 eggs",60,NA
+"9e755371-50f4-4956-a928-1ba72c9b18f1",2024-12-28,"12:13:24","32d18ae835e669ee7a1c08eb59082765","Nawabganj","Chicken","1kg",315,NA
+"9e755371-50f4-4956-a928-1ba72c9b18f1",2024-12-28,"12:13:24","32d18ae835e669ee7a1c08eb59082765","Nawabganj","Potato","1kg",60,NA
+"9e755371-50f4-4956-a928-1ba72c9b18f1",2024-12-28,"12:13:24","32d18ae835e669ee7a1c08eb59082765","Nawabganj","Eggplant","1kg",20,NA
+"9e755371-50f4-4956-a928-1ba72c9b18f1",2024-12-28,"12:13:24","32d18ae835e669ee7a1c08eb59082765","Nawabganj","Onion","1kg",40,NA
+"9e755371-50f4-4956-a928-1ba72c9b18f1",2024-12-28,"12:13:24","32d18ae835e669ee7a1c08eb59082765","Nawabganj","Green Chilli","1kg",80,NA
+"64d52195-28e0-47d5-8271-59389ac9335a",2024-12-28,"12:29:12","173dcb872759ee4b05745b23a2e7ae34","Bogra","Flour","1kg",60,NA
+"64d52195-28e0-47d5-8271-59389ac9335a",2024-12-28,"12:29:12","173dcb872759ee4b05745b23a2e7ae34","Bogra","Lentil","1kg",140,NA
+"64d52195-28e0-47d5-8271-59389ac9335a",2024-12-28,"12:29:12","173dcb872759ee4b05745b23a2e7ae34","Bogra","Soybean Oil","1L",200,NA
+"64d52195-28e0-47d5-8271-59389ac9335a",2024-12-28,"12:29:12","173dcb872759ee4b05745b23a2e7ae34","Bogra","Salt","1kg",40,NA
+"64d52195-28e0-47d5-8271-59389ac9335a",2024-12-28,"12:29:12","173dcb872759ee4b05745b23a2e7ae34","Bogra","Sugar","1kg",130,NA
+"64d52195-28e0-47d5-8271-59389ac9335a",2024-12-28,"12:29:12","173dcb872759ee4b05745b23a2e7ae34","Bogra","Potato","1kg",65,NA
+"64d52195-28e0-47d5-8271-59389ac9335a",2024-12-28,"12:29:12","173dcb872759ee4b05745b23a2e7ae34","Bogra","Onion","1kg",50,NA
+"64d52195-28e0-47d5-8271-59389ac9335a",2024-12-28,"12:29:12","173dcb872759ee4b05745b23a2e7ae34","Bogra","Green Chilli","1kg",60,NA
+"1f2399f8-df23-4ade-9d85-fe0ef90581d5",2024-12-29,"10:55:11","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Eggs","4 eggs",48,NA
+"111d4957-a14c-4d2c-b71b-510e3e93b106",2024-12-29,"14:57:16","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Onion","1kg",60,NA
+"293f4c95-e57b-473f-8e42-32f43a408828",2024-12-29,"15:12:09","b1d010371fae7901b9fd0ed15188a671","Bogra","Onion","1kg",50,NA
+"7ea59c49-0737-4411-97e2-8ec773c796ef",2024-12-29,"15:52:17","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Green Chilli","1kg",80,NA
+"7ea59c49-0737-4411-97e2-8ec773c796ef",2024-12-29,"15:52:17","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Eggplant","1kg",40,NA
+"feed8758-f182-49b1-9719-d37c5b236767",2024-12-29,"17:53:55","fae74bc76cf6016774eb072b7ad97bb8","Rajshahi","Lentil","1kg",140,NA
+"feed8758-f182-49b1-9719-d37c5b236767",2024-12-29,"17:53:55","fae74bc76cf6016774eb072b7ad97bb8","Rajshahi","Soybean Oil","1L",178,NA
+"feed8758-f182-49b1-9719-d37c5b236767",2024-12-29,"17:53:55","fae74bc76cf6016774eb072b7ad97bb8","Rajshahi","Potato","1kg",40,NA
+"feed8758-f182-49b1-9719-d37c5b236767",2024-12-29,"17:53:55","fae74bc76cf6016774eb072b7ad97bb8","Rajshahi","Eggplant","1kg",20,NA
+"feed8758-f182-49b1-9719-d37c5b236767",2024-12-29,"17:53:55","fae74bc76cf6016774eb072b7ad97bb8","Rajshahi","Onion","1kg",55,NA
+"feed8758-f182-49b1-9719-d37c5b236767",2024-12-29,"17:53:55","fae74bc76cf6016774eb072b7ad97bb8","Rajshahi","Green Chilli","1kg",40,NA
+"0d0c12a3-2709-462b-a6f7-37fc17167c27",2024-12-30,"04:32:18","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Lentil","1kg",170,NA
+"0d0c12a3-2709-462b-a6f7-37fc17167c27",2024-12-30,"04:32:18","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Soybean Oil","1L",170,NA
+"0d0c12a3-2709-462b-a6f7-37fc17167c27",2024-12-30,"04:32:18","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Eggs","4 eggs",44,NA
+"0d0c12a3-2709-462b-a6f7-37fc17167c27",2024-12-30,"04:32:18","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Potato","1kg",50,NA
+"284e84b7-0256-451a-8419-ccda327a9498",2024-12-30,"11:53:49","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Soybean Oil","1L",190,NA
+"284e84b7-0256-451a-8419-ccda327a9498",2024-12-30,"11:53:49","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Sugar","1kg",125,NA
+"530c13f4-970d-44c1-be15-77bf2ede0186",2024-12-30,"11:58:39","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Potato","1kg",40,NA
+"530c13f4-970d-44c1-be15-77bf2ede0186",2024-12-30,"11:58:39","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Eggplant","1kg",30,NA
+"530c13f4-970d-44c1-be15-77bf2ede0186",2024-12-30,"11:58:39","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Onion","1kg",50,NA
+"530c13f4-970d-44c1-be15-77bf2ede0186",2024-12-30,"11:58:39","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Green Chilli","1kg",60,NA
+"530c13f4-970d-44c1-be15-77bf2ede0186",2024-12-30,"11:58:39","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Chicken","1kg",170,NA
+"6a539172-27a7-45b7-bdae-66d2d092c2f0",2024-12-30,"12:00:42","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Chicken","1kg",280,NA
+"6a539172-27a7-45b7-bdae-66d2d092c2f0",2024-12-30,"12:00:42","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Potato","1kg",50,NA
+"7808194f-0787-4735-81db-cc8f905559ac",2024-12-30,"13:22:43","8dfcd663955096c2ed95e02e2efc5591","Rajshahi","Chicken","1kg",180,NA
+"30b7eb26-f5ce-4ced-97b9-ca1d5f934ed1",2024-12-31,"14:22:09","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Onion","1kg",60,NA
+"fd2bf233-5878-498b-a3de-0ff406a2dd6a",2024-12-31,"14:24:16","d547544b4104adf9c8861778073e43bc","Rajshahi","Rice","1kg",65,NA
+"fd2bf233-5878-498b-a3de-0ff406a2dd6a",2024-12-31,"14:24:16","d547544b4104adf9c8861778073e43bc","Rajshahi","Flour","1kg",50,NA
+"fd2bf233-5878-498b-a3de-0ff406a2dd6a",2024-12-31,"14:24:16","d547544b4104adf9c8861778073e43bc","Rajshahi","Lentil","1kg",120,NA
+"fd2bf233-5878-498b-a3de-0ff406a2dd6a",2024-12-31,"14:24:16","d547544b4104adf9c8861778073e43bc","Rajshahi","Eggs","4 eggs",44,NA
+"fd2bf233-5878-498b-a3de-0ff406a2dd6a",2024-12-31,"14:24:16","d547544b4104adf9c8861778073e43bc","Rajshahi","Chicken","1kg",175,NA
+"fd2bf233-5878-498b-a3de-0ff406a2dd6a",2024-12-31,"14:24:16","d547544b4104adf9c8861778073e43bc","Rajshahi","Potato","1kg",45,NA
+"fd2bf233-5878-498b-a3de-0ff406a2dd6a",2024-12-31,"14:24:16","d547544b4104adf9c8861778073e43bc","Rajshahi","Onion","1kg",60,NA
+"fd2bf233-5878-498b-a3de-0ff406a2dd6a",2024-12-31,"14:24:16","d547544b4104adf9c8861778073e43bc","Rajshahi","Green Chilli","1kg",40,NA
+"77665678-3463-40de-8b47-87e68647e7fa",2024-12-31,"15:55:12","572d1680512266ab142dd3e235069a1f","Rajshahi","Potato","1kg",50,NA
+"77665678-3463-40de-8b47-87e68647e7fa",2024-12-31,"15:55:12","572d1680512266ab142dd3e235069a1f","Rajshahi","Onion","1kg",50,NA
+"77665678-3463-40de-8b47-87e68647e7fa",2024-12-31,"15:55:12","572d1680512266ab142dd3e235069a1f","Rajshahi","Green Chilli","1kg",60,NA
+"7796c340-1004-4a0d-a51e-164e321a58fb",2024-12-31,"16:02:16","dba26acade9e3f74e95aacca32cb7e9d","Naogaon","Salt","1kg",40,NA
+"7796c340-1004-4a0d-a51e-164e321a58fb",2024-12-31,"16:02:16","dba26acade9e3f74e95aacca32cb7e9d","Naogaon","Sugar","1kg",125,NA
+"7796c340-1004-4a0d-a51e-164e321a58fb",2024-12-31,"16:02:16","dba26acade9e3f74e95aacca32cb7e9d","Naogaon","Eggs","4 eggs",48,NA
+"33573d86-2678-4f06-88c1-d51bd635223f",2025-01-01,"04:14:27","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Rice","1kg",120,NA
+"33573d86-2678-4f06-88c1-d51bd635223f",2025-01-01,"04:14:27","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Chicken","1kg",180,NA
+"4b70b4b2-58d2-4f92-9928-5f68d51a08a1",2025-01-01,"04:36:59","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Potato","1kg",50,"31st December, 2024"
+"4b70b4b2-58d2-4f92-9928-5f68d51a08a1",2025-01-01,"04:36:59","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Onion","1kg",80,"31st December, 2024"
+"60aae71e-0c12-4b5b-9f6c-f54e785a373b",2025-01-01,"09:27:48","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Lentil","1kg",120,NA
+"5615b6f1-58b4-4cbd-b9dd-f76bc97a667d",2025-01-01,"10:11:50","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Rice","1kg",72,NA
+"5615b6f1-58b4-4cbd-b9dd-f76bc97a667d",2025-01-01,"10:11:50","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Soybean Oil","1L",180,NA
+"f58435d0-057f-4aea-a6ae-964eab218707",2025-01-01,"11:12:28","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Salt","1kg",40,"31st December"
+"f58435d0-057f-4aea-a6ae-964eab218707",2025-01-01,"11:12:28","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Potato","1kg",50,"31st December"
+"f58435d0-057f-4aea-a6ae-964eab218707",2025-01-01,"11:12:28","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Onion","1kg",60,"31st December"
+"f58435d0-057f-4aea-a6ae-964eab218707",2025-01-01,"11:12:28","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Soybean Oil","1L",98,"31st December"
+"15cf9a50-a5d1-46b2-be55-10803a30b922",2025-01-01,"11:13:13","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Onion","1kg",80,"31st December"
+"c501d54c-dac0-4009-9d7f-f6d3709c59b9",2025-01-01,"12:50:06","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Soybean Oil","1L",175,NA
+"c501d54c-dac0-4009-9d7f-f6d3709c59b9",2025-01-01,"12:50:06","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Sugar","1kg",135,NA
+"c501d54c-dac0-4009-9d7f-f6d3709c59b9",2025-01-01,"12:50:06","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Eggs","4 eggs",46,NA
+"c501d54c-dac0-4009-9d7f-f6d3709c59b9",2025-01-01,"12:50:06","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Potato","1kg",60,NA
+"c501d54c-dac0-4009-9d7f-f6d3709c59b9",2025-01-01,"12:50:06","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Onion","1kg",55,NA
+"c501d54c-dac0-4009-9d7f-f6d3709c59b9",2025-01-01,"12:50:06","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Green Chilli","1kg",60,NA
+"038cf941-2a95-4dc7-9f96-50678fdb0acc",2025-01-01,"14:50:33","def257dca811221bae96896a448afced","Naogaon","Green Chilli","1kg",40,NA
+"038cf941-2a95-4dc7-9f96-50678fdb0acc",2025-01-01,"14:50:33","def257dca811221bae96896a448afced","Naogaon","Onion","1kg",60,NA
+"038cf941-2a95-4dc7-9f96-50678fdb0acc",2025-01-01,"14:50:33","def257dca811221bae96896a448afced","Naogaon","Eggplant","1kg",30,NA
+"038cf941-2a95-4dc7-9f96-50678fdb0acc",2025-01-01,"14:50:33","def257dca811221bae96896a448afced","Naogaon","Eggs","4 eggs",55,NA
+"038cf941-2a95-4dc7-9f96-50678fdb0acc",2025-01-01,"14:50:33","def257dca811221bae96896a448afced","Naogaon","Soybean Oil","1L",200,NA
+"05e90043-916e-4c05-8e1f-6cfc771dc186",2025-01-02,"06:55:00","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Chicken","1kg",180,NA
+"05e90043-916e-4c05-8e1f-6cfc771dc186",2025-01-02,"06:55:00","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Potato","1kg",50,NA
+"05e90043-916e-4c05-8e1f-6cfc771dc186",2025-01-02,"06:55:00","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Eggplant","1kg",60,NA
+"05e90043-916e-4c05-8e1f-6cfc771dc186",2025-01-02,"06:55:00","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Onion","1kg",60,NA
+"05e90043-916e-4c05-8e1f-6cfc771dc186",2025-01-02,"06:55:00","2121cd939eb18e4942dc891e4d49dd06","Naogaon","Green Chilli","1kg",60,NA
+"02246c6a-414a-44b2-bd15-403a9b7da7d9",2025-01-02,"10:52:14","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Rice","1kg",75,NA
+"02246c6a-414a-44b2-bd15-403a9b7da7d9",2025-01-02,"10:52:14","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Soybean Oil","1L",175,NA
+"02246c6a-414a-44b2-bd15-403a9b7da7d9",2025-01-02,"10:52:14","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Eggs","4 eggs",44,NA
+"02246c6a-414a-44b2-bd15-403a9b7da7d9",2025-01-02,"10:52:14","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Chicken","1kg",185,NA
+"0b09616e-a266-4358-88fe-f34035a74c79",2025-01-03,"08:56:39","def257dca811221bae96896a448afced","Naogaon","Eggplant","1kg",20,NA
+"0b09616e-a266-4358-88fe-f34035a74c79",2025-01-03,"08:56:39","def257dca811221bae96896a448afced","Naogaon","Potato","1kg",60,NA
+"0b09616e-a266-4358-88fe-f34035a74c79",2025-01-03,"08:56:39","def257dca811221bae96896a448afced","Naogaon","Onion","1kg",60,NA
+"0b09616e-a266-4358-88fe-f34035a74c79",2025-01-03,"08:56:39","def257dca811221bae96896a448afced","Naogaon","Chicken","1kg",300,NA
+"c09f20a0-dcd5-4a83-a6f9-29295dd1033f",2025-01-04,"13:39:07","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Rice","1kg",72,NA
+"c09f20a0-dcd5-4a83-a6f9-29295dd1033f",2025-01-04,"13:39:07","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Lentil","1kg",115,NA
+"c09f20a0-dcd5-4a83-a6f9-29295dd1033f",2025-01-04,"13:39:07","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Onion","1kg",40,NA
+"c09f20a0-dcd5-4a83-a6f9-29295dd1033f",2025-01-04,"13:39:07","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Eggplant","1kg",30,NA
+"c09f20a0-dcd5-4a83-a6f9-29295dd1033f",2025-01-04,"13:39:07","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Potato","1kg",30,NA
+"fd14bdd8-ae0a-421e-9e42-7e6bd301cc31",2025-01-04,"13:40:00","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Onion","1kg",60,NA
+"bd16acde-a758-43b1-995a-43e8bacbcc5b",2025-01-05,"16:34:55","064ab8f300fb2dfb5ec142f1afde61ed","Bogra","Onion","1kg",50,"well price is reasonable"
+"3305c7f6-1882-4f1c-bc00-dbe1939f3068",2025-01-06,"07:33:46","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Potato","1kg",30,NA
+"0d56c674-43b8-4f60-a1bb-8fb8907c31aa",2025-01-06,"07:36:22","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Eggplant","1kg",30,NA
+"0d56c674-43b8-4f60-a1bb-8fb8907c31aa",2025-01-06,"07:36:22","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Onion","1kg",50,NA
+"0d56c674-43b8-4f60-a1bb-8fb8907c31aa",2025-01-06,"07:36:22","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Green Chilli","1kg",30,NA
+"dd895f63-b508-4090-be55-e7de70902b80",2025-01-06,"07:52:46","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Rice","1kg",65,NA
+"dd895f63-b508-4090-be55-e7de70902b80",2025-01-06,"07:52:46","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Flour","1kg",50,NA
+"dd895f63-b508-4090-be55-e7de70902b80",2025-01-06,"07:52:46","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Lentil","1kg",140,NA
+"dd895f63-b508-4090-be55-e7de70902b80",2025-01-06,"07:52:46","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Soybean Oil","1L",185,NA
+"dd895f63-b508-4090-be55-e7de70902b80",2025-01-06,"07:52:46","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Salt","1kg",40,NA
+"dd895f63-b508-4090-be55-e7de70902b80",2025-01-06,"07:52:46","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Sugar","1kg",125,NA
+"dd895f63-b508-4090-be55-e7de70902b80",2025-01-06,"07:52:46","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Eggs","4 eggs",45,NA
+"dd895f63-b508-4090-be55-e7de70902b80",2025-01-06,"07:52:46","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Chicken","1kg",180,NA
+"dcf738e1-c8ef-4d0c-9b3d-0b0f85811b81",2025-01-06,"08:15:17","933583c077ff4c73565282b510dd424f","Naogaon","Potato","1kg",50,"Last Friday"
+"dcf738e1-c8ef-4d0c-9b3d-0b0f85811b81",2025-01-06,"08:15:17","933583c077ff4c73565282b510dd424f","Naogaon","Eggplant","1kg",40,"Last Friday"
+"dcf738e1-c8ef-4d0c-9b3d-0b0f85811b81",2025-01-06,"08:15:17","933583c077ff4c73565282b510dd424f","Naogaon","Onion","1kg",60,"Last Friday"
+"dcf738e1-c8ef-4d0c-9b3d-0b0f85811b81",2025-01-06,"08:15:17","933583c077ff4c73565282b510dd424f","Naogaon","Chicken","1kg",190,"Last Friday"
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Rice","1kg",65,NA
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Flour","1kg",40,NA
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Lentil","1kg",160,NA
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Soybean Oil","1L",180,NA
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Salt","1kg",32,NA
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Sugar","1kg",153,NA
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Eggs","4 eggs",55,NA
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Chicken","1kg",320,NA
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Potato","1kg",60,NA
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Eggplant","1kg",40,NA
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Onion","1kg",50,NA
+"84c0ef3d-68fb-4dcb-ab6d-a1a648e95508",2025-01-06,"12:14:24","2b8427508a9e3bcf9e579578f6629e08","Pabna","Green Chilli","1kg",40,NA
+"33ae478b-e8ef-4995-a045-a879db0aff08",2025-01-06,"13:17:42","572d1680512266ab142dd3e235069a1f","Rajshahi","Eggs","4 eggs",45,NA
+"33ae478b-e8ef-4995-a045-a879db0aff08",2025-01-06,"13:17:42","572d1680512266ab142dd3e235069a1f","Rajshahi","Potato","1kg",40,NA
+"33ae478b-e8ef-4995-a045-a879db0aff08",2025-01-06,"13:17:42","572d1680512266ab142dd3e235069a1f","Rajshahi","Onion","1kg",50,NA
+"347a9007-efba-4b6a-a6d1-6d733cde1ce6",2025-01-06,"16:42:20","71c7f4219426d4441355ae3917e30e92","Dhaka","Rice","1kg",70,NA
+"347a9007-efba-4b6a-a6d1-6d733cde1ce6",2025-01-06,"16:42:20","71c7f4219426d4441355ae3917e30e92","Dhaka","Eggs","4 eggs",45,NA
+"347a9007-efba-4b6a-a6d1-6d733cde1ce6",2025-01-06,"16:42:20","71c7f4219426d4441355ae3917e30e92","Dhaka","Chicken","1kg",360,NA
+"347a9007-efba-4b6a-a6d1-6d733cde1ce6",2025-01-06,"16:42:20","71c7f4219426d4441355ae3917e30e92","Dhaka","Potato","1kg",60,NA
+"347a9007-efba-4b6a-a6d1-6d733cde1ce6",2025-01-06,"16:42:20","71c7f4219426d4441355ae3917e30e92","Dhaka","Onion","1kg",50,NA
+"347a9007-efba-4b6a-a6d1-6d733cde1ce6",2025-01-06,"16:42:20","71c7f4219426d4441355ae3917e30e92","Dhaka","Green Chilli","1kg",200,NA
+"251325aa-d7c3-4537-a9c6-aab58951d6b8",2025-01-06,"18:16:21","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Lentil","1kg",110,NA
+"251325aa-d7c3-4537-a9c6-aab58951d6b8",2025-01-06,"18:16:21","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Sugar","1kg",120,NA
+"251325aa-d7c3-4537-a9c6-aab58951d6b8",2025-01-06,"18:16:21","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",40,NA
+"251325aa-d7c3-4537-a9c6-aab58951d6b8",2025-01-06,"18:16:21","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Rice","1kg",78,NA
+"251325aa-d7c3-4537-a9c6-aab58951d6b8",2025-01-06,"18:16:21","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Green Chilli","1kg",60,NA
+"27584ebd-076f-49fe-af09-15da3d4f75e5",2025-01-06,"18:17:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Lentil","1kg",140,NA
+"27584ebd-076f-49fe-af09-15da3d4f75e5",2025-01-06,"18:17:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Sugar","1kg",140,NA
+"27584ebd-076f-49fe-af09-15da3d4f75e5",2025-01-06,"18:17:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",44,NA
+"a35a7561-dfff-47b3-b44b-b161c6387e63",2025-01-06,"18:18:18","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",46,NA
+"6f9c47ca-db9d-47ce-a94b-358fc491b934",2025-01-07,"17:42:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",44,NA
+"a5c1b364-4808-4a4e-aa66-7770122922a4",2025-01-07,"17:43:26","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",46,NA
+"40312a4f-b0d3-40af-b0a3-6418bc78561b",2025-01-08,"13:21:35","886e897b7c9a8a66297d024a696f2c93","Gaibandha","Eggs","4 eggs",50,NA
+"c6d2fc87-6598-482d-bfee-fc6c9c6134b0",2025-01-08,"17:08:43","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Soybean Oil","1L",180,NA
+"9f441d18-b9c7-4eb7-b9b9-eddb89bb5bcc",2025-01-10,"09:44:51","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Rice","1kg",65,NA
+"9f441d18-b9c7-4eb7-b9b9-eddb89bb5bcc",2025-01-10,"09:44:51","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Lentil","1kg",140,NA
+"9f441d18-b9c7-4eb7-b9b9-eddb89bb5bcc",2025-01-10,"09:44:51","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",44,NA
+"9f441d18-b9c7-4eb7-b9b9-eddb89bb5bcc",2025-01-10,"09:44:51","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Potato","1kg",30,NA
+"9f441d18-b9c7-4eb7-b9b9-eddb89bb5bcc",2025-01-10,"09:44:51","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Green Chilli","1kg",60,NA
+"9f441d18-b9c7-4eb7-b9b9-eddb89bb5bcc",2025-01-10,"09:44:51","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggplant","1kg",30,NA
+"298bd292-d46f-45f5-8f07-9e851da59d8d",2025-01-11,"07:35:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Onion","1kg",50,NA
+"298bd292-d46f-45f5-8f07-9e851da59d8d",2025-01-11,"07:35:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Rice","1kg",60,NA
+"298bd292-d46f-45f5-8f07-9e851da59d8d",2025-01-11,"07:35:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Lentil","1kg",120,NA
+"298bd292-d46f-45f5-8f07-9e851da59d8d",2025-01-11,"07:35:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Soybean Oil","1L",185,NA
+"298bd292-d46f-45f5-8f07-9e851da59d8d",2025-01-11,"07:35:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",40,NA
+"298bd292-d46f-45f5-8f07-9e851da59d8d",2025-01-11,"07:35:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Chicken","1kg",190,NA
+"298bd292-d46f-45f5-8f07-9e851da59d8d",2025-01-11,"07:35:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Potato","1kg",40,NA
+"298bd292-d46f-45f5-8f07-9e851da59d8d",2025-01-11,"07:35:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Green Chilli","1kg",60,NA
+"dd2dee71-3439-485a-81f2-3abaac4ef4d8",2025-01-11,"07:38:17","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Rice","1kg",70,NA
+"dd2dee71-3439-485a-81f2-3abaac4ef4d8",2025-01-11,"07:38:17","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Chicken","1kg",260,NA
+"dd2dee71-3439-485a-81f2-3abaac4ef4d8",2025-01-11,"07:38:17","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",42,NA
+"dd2dee71-3439-485a-81f2-3abaac4ef4d8",2025-01-11,"07:38:17","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Potato","1kg",35,NA
+"6de5f703-9fc2-4bdf-863c-082b06c818e2",2025-01-11,"07:39:08","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Chicken","1kg",310,NA
+"f8117c10-c46a-46a7-801d-08a28b604ac6",2025-01-11,"07:39:41","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Chicken","1kg",320,NA
+"e35884a3-4ed1-4074-ac96-c789ada0daf7",2025-01-11,"07:40:20","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Chicken","1kg",340,NA
+"f704b0a2-3143-465d-934c-d3b04c92f1a9",2025-01-11,"12:29:51","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Onion","1kg",45,NA
+"f704b0a2-3143-465d-934c-d3b04c92f1a9",2025-01-11,"12:29:51","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Sugar","1kg",130,NA
+"d11fcb26-9099-4b8a-b2a4-147fe4ec1547",2025-01-11,"16:46:40","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Soybean Oil","1L",170,NA
+"d11fcb26-9099-4b8a-b2a4-147fe4ec1547",2025-01-11,"16:46:40","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Potato","1kg",40,NA
+"d11fcb26-9099-4b8a-b2a4-147fe4ec1547",2025-01-11,"16:46:40","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Onion","1kg",50,NA
+"7d4863e1-f637-4501-b6e1-3462cd9323cc",2025-01-12,"17:53:43","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",48,NA
+"82ee85af-f278-4ba2-9c32-aa55a41ef023",2025-01-15,"01:25:14","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Potato","1kg",25,NA
+"9357e243-c529-4c7c-b380-57bc1a10f829",2025-01-15,"01:26:00","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Soybean Oil","1L",170,NA
+"bc6a1eb3-8c7c-42dd-8777-82a2b30b2c10",2025-01-15,"15:32:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Rice","1kg",70,NA
+"bc6a1eb3-8c7c-42dd-8777-82a2b30b2c10",2025-01-15,"15:32:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Soybean Oil","1L",170,NA
+"bc6a1eb3-8c7c-42dd-8777-82a2b30b2c10",2025-01-15,"15:32:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Potato","1kg",25,NA
+"bc6a1eb3-8c7c-42dd-8777-82a2b30b2c10",2025-01-15,"15:32:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggplant","1kg",30,NA
+"bc6a1eb3-8c7c-42dd-8777-82a2b30b2c10",2025-01-15,"15:32:32","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Green Chilli","1kg",40,NA
+"bf03b1be-fdad-4727-85ba-a5245d527608",2025-01-16,"12:32:51","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Flour","1kg",50,NA
+"bf03b1be-fdad-4727-85ba-a5245d527608",2025-01-16,"12:32:51","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Soybean Oil","1L",180,NA
+"bf03b1be-fdad-4727-85ba-a5245d527608",2025-01-16,"12:32:51","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Eggs","4 eggs",48,NA
+"bf03b1be-fdad-4727-85ba-a5245d527608",2025-01-16,"12:32:51","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Potato","1kg",40,NA
+"bf03b1be-fdad-4727-85ba-a5245d527608",2025-01-16,"12:32:51","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Eggplant","1kg",30,NA
+"bf03b1be-fdad-4727-85ba-a5245d527608",2025-01-16,"12:32:51","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Onion","1kg",50,NA
+"bf03b1be-fdad-4727-85ba-a5245d527608",2025-01-16,"12:32:51","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Green Chilli","1kg",50,NA
+"bf03b1be-fdad-4727-85ba-a5245d527608",2025-01-16,"12:32:51","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Sugar","1kg",120,NA
+"772e81bd-257d-4bef-bab0-e2ed3ebd3340",2025-01-16,"14:44:49","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Flour","1kg",60,NA
+"772e81bd-257d-4bef-bab0-e2ed3ebd3340",2025-01-16,"14:44:49","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Lentil","1kg",130,NA
+"772e81bd-257d-4bef-bab0-e2ed3ebd3340",2025-01-16,"14:44:49","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Soybean Oil","1L",180,NA
+"772e81bd-257d-4bef-bab0-e2ed3ebd3340",2025-01-16,"14:44:49","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Sugar","1kg",130,NA
+"772e81bd-257d-4bef-bab0-e2ed3ebd3340",2025-01-16,"14:44:49","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Salt","1kg",40,NA
+"772e81bd-257d-4bef-bab0-e2ed3ebd3340",2025-01-16,"14:44:49","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Eggs","4 eggs",44,NA
+"772e81bd-257d-4bef-bab0-e2ed3ebd3340",2025-01-16,"14:44:49","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Chicken","1kg",180,NA
+"772e81bd-257d-4bef-bab0-e2ed3ebd3340",2025-01-16,"14:44:49","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Potato","1kg",30,NA
+"772e81bd-257d-4bef-bab0-e2ed3ebd3340",2025-01-16,"14:44:49","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Eggplant","1kg",30,NA
+"772e81bd-257d-4bef-bab0-e2ed3ebd3340",2025-01-16,"14:44:49","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Green Chilli","1kg",40,NA
+"772e81bd-257d-4bef-bab0-e2ed3ebd3340",2025-01-16,"14:44:49","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Onion","1kg",40,NA
+"d1d6f210-27f6-472e-931c-fbd5ea24dae4",2025-01-16,"14:54:05","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Sugar","1kg",140,NA
+"84c29fa2-7f5a-4d5d-b158-3af37e573274",2025-01-16,"14:54:29","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Green Chilli","1kg",40,NA
+"8b0fe601-90fc-48ff-a30e-3a0717f7a700",2025-01-17,"11:25:57","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Rice","1kg",70,NA
+"8b0fe601-90fc-48ff-a30e-3a0717f7a700",2025-01-17,"11:25:57","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Soybean Oil","1L",180,NA
+"8b0fe601-90fc-48ff-a30e-3a0717f7a700",2025-01-17,"11:25:57","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Salt","1kg",42,NA
+"6d739741-5108-411d-9a2f-8f3b89a52e92",2025-01-18,"18:45:55","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Potato","1kg",30,NA
+"6d739741-5108-411d-9a2f-8f3b89a52e92",2025-01-18,"18:45:55","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Onion","1kg",50,NA
+"58290cb7-b2b8-4973-9514-7eb921d72040",2025-01-19,"14:46:21","10647f6e8518d7afd96b1398a86fdd63","Dinajpur","Rice","1kg",80,NA
+"58290cb7-b2b8-4973-9514-7eb921d72040",2025-01-19,"14:46:21","10647f6e8518d7afd96b1398a86fdd63","Dinajpur","Potato","1kg",20,NA
+"2597438d-7052-420a-acaa-ea45a8b61b29",2025-01-19,"15:06:32","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Potato","1kg",30,NA
+"2597438d-7052-420a-acaa-ea45a8b61b29",2025-01-19,"15:06:32","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Eggplant","1kg",30,NA
+"2597438d-7052-420a-acaa-ea45a8b61b29",2025-01-19,"15:06:32","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Onion","1kg",50,NA
+"2597438d-7052-420a-acaa-ea45a8b61b29",2025-01-19,"15:06:32","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Green Chilli","1kg",60,NA
+"9114bfa5-3042-404a-82a4-a946a56b83e6",2025-01-19,"15:09:38","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Rice","1kg",64,NA
+"9114bfa5-3042-404a-82a4-a946a56b83e6",2025-01-19,"15:09:38","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Flour","1kg",42,NA
+"9114bfa5-3042-404a-82a4-a946a56b83e6",2025-01-19,"15:09:38","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Lentil","1kg",110,NA
+"9114bfa5-3042-404a-82a4-a946a56b83e6",2025-01-19,"15:09:38","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Soybean Oil","1L",175,NA
+"9114bfa5-3042-404a-82a4-a946a56b83e6",2025-01-19,"15:09:38","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Salt","1kg",40,NA
+"9114bfa5-3042-404a-82a4-a946a56b83e6",2025-01-19,"15:09:38","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Eggs","4 eggs",44,NA
+"9114bfa5-3042-404a-82a4-a946a56b83e6",2025-01-19,"15:09:38","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Sugar","1kg",125,NA
+"7fd736ed-591b-4c8e-b74b-8fe4ada61ca8",2025-01-20,"15:41:11","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Rice","1kg",55,NA
+"7fd736ed-591b-4c8e-b74b-8fe4ada61ca8",2025-01-20,"15:41:11","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Eggs","4 eggs",42,NA
+"7fd736ed-591b-4c8e-b74b-8fe4ada61ca8",2025-01-20,"15:41:11","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Eggplant","1kg",30,NA
+"7fd736ed-591b-4c8e-b74b-8fe4ada61ca8",2025-01-20,"15:41:11","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Potato","1kg",30,NA
+"7fd736ed-591b-4c8e-b74b-8fe4ada61ca8",2025-01-20,"15:41:11","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Onion","1kg",45,NA
+"7fd736ed-591b-4c8e-b74b-8fe4ada61ca8",2025-01-20,"15:41:11","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Green Chilli","1kg",45,NA
+"b0eca3c2-5deb-4ef1-8a2e-3e329028a582",2025-01-20,"15:52:07","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Rice","1kg",60,NA
+"4c601c50-6e7f-4941-8ade-217b5a40b9c8",2025-01-20,"15:53:09","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Rice","1kg",70,NA
+"acdd39c9-3dec-4e8a-a388-28dd546887cf",2025-01-20,"15:54:10","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Rice","1kg",65,NA
+"3bf367ca-4878-4d3c-a462-90fb5c4ce9fb",2025-01-22,"09:16:40","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Potato","1kg",30,NA
+"3bf367ca-4878-4d3c-a462-90fb5c4ce9fb",2025-01-22,"09:16:40","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Onion","1kg",40,NA
+"3bf367ca-4878-4d3c-a462-90fb5c4ce9fb",2025-01-22,"09:16:40","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Green Chilli","1kg",50,NA
+"3bf367ca-4878-4d3c-a462-90fb5c4ce9fb",2025-01-22,"09:16:40","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Eggplant","1kg",30,NA
+"3bf367ca-4878-4d3c-a462-90fb5c4ce9fb",2025-01-22,"09:16:40","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Eggs","4 eggs",42,NA
+"480aa88e-3f5a-4313-aa1e-776f50b9c5fe",2025-01-23,"13:39:21","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Flour","1kg",50,NA
+"480aa88e-3f5a-4313-aa1e-776f50b9c5fe",2025-01-23,"13:39:21","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Lentil","1kg",125,NA
+"480aa88e-3f5a-4313-aa1e-776f50b9c5fe",2025-01-23,"13:39:21","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Potato","1kg",25,NA
+"480aa88e-3f5a-4313-aa1e-776f50b9c5fe",2025-01-23,"13:39:21","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Eggplant","1kg",30,NA
+"480aa88e-3f5a-4313-aa1e-776f50b9c5fe",2025-01-23,"13:39:21","3d23abb363856a27c7601fd6672bd5c0","Rajshahi","Green Chilli","1kg",40,NA
+"16ea9f01-576f-48d0-bca4-3fbe0172936c",2025-01-23,"16:00:02","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggs","4 eggs",45,NA
+"a90186e2-e7f5-423d-a119-9230249817a4",2025-01-27,"05:08:53","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Rice","1kg",60,NA
+"a90186e2-e7f5-423d-a119-9230249817a4",2025-01-27,"05:08:53","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Lentil","1kg",160,NA
+"a90186e2-e7f5-423d-a119-9230249817a4",2025-01-27,"05:08:53","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Soybean Oil","1L",160,NA
+"a90186e2-e7f5-423d-a119-9230249817a4",2025-01-27,"05:08:53","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Salt","1kg",36,NA
+"a90186e2-e7f5-423d-a119-9230249817a4",2025-01-27,"05:08:53","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Eggs","4 eggs",44,NA
+"a90186e2-e7f5-423d-a119-9230249817a4",2025-01-27,"05:08:53","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Chicken","1kg",220,NA
+"a90186e2-e7f5-423d-a119-9230249817a4",2025-01-27,"05:08:53","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Potato","1kg",3,NA
+"a90186e2-e7f5-423d-a119-9230249817a4",2025-01-27,"05:08:53","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Onion","1kg",46,NA
+"a90186e2-e7f5-423d-a119-9230249817a4",2025-01-27,"05:08:53","c15251cff68faccf4b27b37e8eb11447","Rajshahi","Green Chilli","1kg",90,NA
+"e8f750f2-0e77-448b-ab10-b9b39d4a9126",2025-01-29,"07:56:44","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Rice","1kg",65,NA
+"e8f750f2-0e77-448b-ab10-b9b39d4a9126",2025-01-29,"07:56:44","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Flour","1kg",50,NA
+"e8f750f2-0e77-448b-ab10-b9b39d4a9126",2025-01-29,"07:56:44","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Lentil","1kg",120,NA
+"e8f750f2-0e77-448b-ab10-b9b39d4a9126",2025-01-29,"07:56:44","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Soybean Oil","1L",173,NA
+"e8f750f2-0e77-448b-ab10-b9b39d4a9126",2025-01-29,"07:56:44","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Salt","1kg",40,NA
+"e8f750f2-0e77-448b-ab10-b9b39d4a9126",2025-01-29,"07:56:44","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Sugar","1kg",130,NA
+"e8f750f2-0e77-448b-ab10-b9b39d4a9126",2025-01-29,"07:56:44","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Eggs","4 eggs",42,NA
+"fdd82fbf-074b-4d1a-9ccb-37f9a203244b",2025-02-01,"14:20:29","e4073accc32f02811fa0a6a5079aec27","Rajshahi","Potato","1kg",20,NA
+"e5a6ff0d-1f26-4175-993f-dbc2d34e81e5",2025-02-04,"13:03:03","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Potato","1kg",25,NA
+"80a3d6d3-fa24-4454-ac2c-b815a7134ba7",2025-02-07,"11:38:41","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Eggs","4 eggs",40,NA
+"80a3d6d3-fa24-4454-ac2c-b815a7134ba7",2025-02-07,"11:38:41","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Potato","1kg",20,NA
+"8f11adb1-6ef5-41a0-8f6c-ff47584a3c02",2025-02-13,"11:11:46","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Soybean Oil","1L",178,NA
+"8f11adb1-6ef5-41a0-8f6c-ff47584a3c02",2025-02-13,"11:11:46","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Potato","1kg",20,NA
+"8f11adb1-6ef5-41a0-8f6c-ff47584a3c02",2025-02-13,"11:11:46","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Eggplant","1kg",30,NA
+"8f11adb1-6ef5-41a0-8f6c-ff47584a3c02",2025-02-13,"11:11:46","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Onion","1kg",40,NA
+"8f11adb1-6ef5-41a0-8f6c-ff47584a3c02",2025-02-13,"11:11:46","2121cd939eb18e4942dc891e4d49dd06","Rajshahi","Green Chilli","1kg",60,NA
+"7eaf837a-760f-48de-b524-48b9fd064b6d",2025-02-15,"16:02:11","e435e2bdb6618f88f9a1ac1a6e8a4cb3","Dhaka","Rice","1kg",74,NA
+"7eaf837a-760f-48de-b524-48b9fd064b6d",2025-02-15,"16:02:11","e435e2bdb6618f88f9a1ac1a6e8a4cb3","Dhaka","Flour","1kg",114,NA
+"7eaf837a-760f-48de-b524-48b9fd064b6d",2025-02-15,"16:02:11","e435e2bdb6618f88f9a1ac1a6e8a4cb3","Dhaka","Lentil","1kg",220,NA
+"7eaf837a-760f-48de-b524-48b9fd064b6d",2025-02-15,"16:02:11","e435e2bdb6618f88f9a1ac1a6e8a4cb3","Dhaka","Soybean Oil","1L",170,NA
+"7eaf837a-760f-48de-b524-48b9fd064b6d",2025-02-15,"16:02:11","e435e2bdb6618f88f9a1ac1a6e8a4cb3","Dhaka","Eggs","4 eggs",44,NA
+"7eaf837a-760f-48de-b524-48b9fd064b6d",2025-02-15,"16:02:11","e435e2bdb6618f88f9a1ac1a6e8a4cb3","Dhaka","Chicken","1kg",190,NA
+"b6470fcf-44f9-4bee-b633-c75ed3d6c882",2025-02-27,"13:32:19","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Eggs","4 eggs",40,NA
+"b6470fcf-44f9-4bee-b633-c75ed3d6c882",2025-02-27,"13:32:19","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Potato","1kg",20,NA
+"b6470fcf-44f9-4bee-b633-c75ed3d6c882",2025-02-27,"13:32:19","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Eggplant","1kg",30,NA
+"b6470fcf-44f9-4bee-b633-c75ed3d6c882",2025-02-27,"13:32:19","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Onion","1kg",35,NA
+"b6470fcf-44f9-4bee-b633-c75ed3d6c882",2025-02-27,"13:32:19","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Green Chilli","1kg",45,NA
+"45dba596-687f-4303-8f75-746c7688e925",2025-02-27,"13:33:22","b1d010371fae7901b9fd0ed15188a671","Rajshahi","Soybean Oil","1L",180,NA
+"81d04c31-89d1-4c50-8578-347a78ad0050",2025-03-02,"13:41:50","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Rice","1kg",80,NA
+"81d04c31-89d1-4c50-8578-347a78ad0050",2025-03-02,"13:41:50","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Soybean Oil","1L",195,NA
+"81d04c31-89d1-4c50-8578-347a78ad0050",2025-03-02,"13:41:50","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Eggs","4 eggs",42,NA
+"81d04c31-89d1-4c50-8578-347a78ad0050",2025-03-02,"13:41:50","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Chicken","1kg",190,NA
+"81d04c31-89d1-4c50-8578-347a78ad0050",2025-03-02,"13:41:50","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Potato","1kg",20,NA
+"81d04c31-89d1-4c50-8578-347a78ad0050",2025-03-02,"13:41:50","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Green Chilli","1kg",50,NA
+"ccab0172-3f54-4c87-9228-3e4f6bf87bab",2025-03-03,"22:57:15","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Soybean Oil","1L",195,"Ramadan"
+"ccab0172-3f54-4c87-9228-3e4f6bf87bab",2025-03-03,"22:57:15","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Eggs","4 eggs",44,"Ramadan"
+"ccab0172-3f54-4c87-9228-3e4f6bf87bab",2025-03-03,"22:57:15","12bc8f52864c56c3dfbd8905a123f20c","Rajshahi","Eggplant","1kg",30,"Ramadan"
+"5cc1a85c-b81e-45b3-9e68-acf4e2daa370",2025-03-11,"05:12:00","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Rice","1kg",78,NA
+"5cc1a85c-b81e-45b3-9e68-acf4e2daa370",2025-03-11,"05:12:00","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Lentil","1kg",110,NA
+"5cc1a85c-b81e-45b3-9e68-acf4e2daa370",2025-03-11,"05:12:00","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Soybean Oil","1L",180,NA
+"5cc1a85c-b81e-45b3-9e68-acf4e2daa370",2025-03-11,"05:12:00","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Eggs","4 eggs",42,NA
+"5cc1a85c-b81e-45b3-9e68-acf4e2daa370",2025-03-11,"05:12:00","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Chicken","1kg",190,NA
+"5cc1a85c-b81e-45b3-9e68-acf4e2daa370",2025-03-11,"05:12:00","b0090872a6819c04bf810bd47f50ede1","Rajshahi","Potato","1kg",20,NA
