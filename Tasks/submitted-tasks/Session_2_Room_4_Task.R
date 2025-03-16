@@ -4,9 +4,7 @@ library(tidyr)
 library(lubridate)
 
 
-setwd("C://Users//Dell//Desktop//Data Science with R")
-file_path <- "C:/Users/Dell/Desktop/Data Science with R/VEGIEHAT-Pilot-Database.xlsx"
-dfVEGIEHAT <- read_excel(file_path)
+dfVEGIEHAT <- read_excel("VEGIEHAT-Pilot-Database.xlsx")
 head(dfVEGIEHAT)
 
 
