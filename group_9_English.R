@@ -10,7 +10,7 @@ library(tidyverse)
 library(readr)
 
 #####Load data
-player_stat <- read_csv("E:/Dropbox/Personal/Study/Data Science/CfDRA - Data Science Journey Using R/EPL-Player-Stats-Upto-2020-09-24.csv")
+player_stat <- read_csv("./EPL-Player-Stats-Upto-2020-09-24.csv")
 
 
 # View the data
