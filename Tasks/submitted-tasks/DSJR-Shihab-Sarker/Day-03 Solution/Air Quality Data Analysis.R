@@ -45,17 +45,25 @@ dfAirQuality_cleaned <- dfAirQuality %>%
 
 # Combine Date and Time into a single datetime column
 dfAirQuality_cleaned <- dfAirQuality_cleaned %>%
-mutate(DateTime = as.POSIXct(paste(Date, Time), format="%Y-%m-%d %H:%M"))
+  mutate(
+    DateTime = as.POSIXct(paste(Date, Time), 
+      format="%Y-%m-%d %H:%M")
+    )
 
 # View the cleaned data
 print(dfAirQuality_cleaned)
 
 # Filter Dhaka city only
 dfDhaka <- dfAirQuality_cleaned %>%
-  filter(CityName == "Dhaka")
+  filter(
+    CityName == "Dhaka"
+    ) %>%
+  select(
+    DateTime, PM2.5, CityName
+  )
 
 # Plot the data
-ggplot(dfDhaka, aes(x = Date)) +
+ggplot(dfDhaka, aes(x = DateTime)) +
   geom_smooth(aes(y = PM2.5, color = "PM2.5")) +
   labs(title = "Changes in PM2.5 over Time in Dhaka City",
        x = "Year",
