@@ -6,6 +6,7 @@ However during 2017-19 we see an increase of PM2.5 count even during the middle 
 
 A lack of data after 2019 for around 6 months indicate that the data collection process was on hold during the start of the COVID-19 Pandemic.
 
+khulna and rajshahi have silly data.
 ![Data analysis](./Session_3_Room_3_Plot.png)
 
 By
