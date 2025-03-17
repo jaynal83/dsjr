@@ -22,3 +22,4 @@ air_data <- air_data %>%
   select(Date, Time, CityName, PM2.5, Temperature)
 head(air_data)
 air_data$CityName 
+View(air_data)
