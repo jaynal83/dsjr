@@ -1,0 +1,107 @@
+---
+title: "VEGIEHAT Data Analysis Markdown"
+author: "Shihab Sarker"
+date: "2025-03-16"
+output: html_document
+---
+
+### VEGIEHAT Pilot Database
+
+This is a crowd sourced data collected through [VEGIEHAT](https://vegiehat.org/) platform. The objective was to create a database containing essential food and vegetable prices information in Bangladesh. The consumers can directly enter price information based on their own purchase. In this task, you are given a part of the data to work in a group. The following are the variables in the data.
+
+-   `SubmissionId:` Unique submission ID, this is column should be unique throughout the data
+-   `SubmissionTime:` The submission date and time (in GMT)
+-   `UserId:` User ID
+-   `DistrictName:` Name of Administrative Districts
+-   `UpazilaName:` Name of Administrative Upazila/Thana
+-   `ItemsToChoose:` Food/Vegetable Item to choose (Multiple allowed)
+-   `Value - Rice:` Price of 1 kg Rice in Bangladeshi Taka (BDT)
+-   `Value - Flour:` Price of 1 kg Flour in BDT
+-   `Value - Lentil:` Price of 1 kg Lentil in BDT
+-   `Value - Soybean Oil:` Price of 1L Soybean Oil in BDT
+-   `Value - Salt:` Price of 1 kg salt in BDT
+-   `Value - Sugar:` Price of 1 kg Sugar in BDT
+-   `Value - Eggs:` Price of 4 eggs in BDT
+-   `Value - Chicken:` Price of Farm Chicken per kg in BDT
+-   `Value - Potato:` Price of 1 kg potato in BDT
+-   `Value - Eggplant:` Price of 1 kg Eggplant in BDT
+-   `Value - Onion:` Price of 1 kg Onion in BDT
+-   `Value - Green Chilli:` Price of 1kg green chilli in BDT
+-   `Comments:` Any comments written by submitting users
+
+### Expected Output from VEGIEHAT Data
+
+The following is the expected output data after doing cleaning and necessary processing:
+
+-   `SubmissionId:`
+-   `UserId:` User ID
+-   `ItemsToChoose:` Food/Vegetable Item - Separated in each column
+
+### Objectives
+After completing data cleaning and necessary processing determine followings:
+- What is the frequency of selecting `Soybean Oil`?
+- What is the frequency of selecting `Soybean Oil` and `Eggs`?
+
+### Data Cleaning and Processing
+```{r, warning=FALSE, message=FALSE}
+# Load necessary Packages
+library(readxl)
+library(dplyr)
+library(tidyr)
+library(stringr)
+
+# Import data
+dfVEGIEHAT <- read_xlsx("./Data/VEGIEHAT-Pilot-Database.xlsx", sheet = "Sheet1",
+                        range = cell_cols("A:F"),
+                        col_types = c("text","date","text","text","text","text" ))
+show(dfVEGIEHAT)
+```
+```{r}
+# Filter rows with non-empty values
+dfItemsChosen <- dfVEGIEHAT %>%
+  filter(
+    !is.na(ItemsToChoose),            # Remove NA in ItemsToChoose
+    nchar(ItemsToChoose) > 0,         # Remove empty ItemsToChoose
+    nchar(UserId) > 0                 # Remove empty UserId
+  ) %>%
+  select(
+    SubmissionId, UserId, ItemsToChoose  # Select relevant columns
+  ) %>%
+  separate_rows(
+    ItemsToChoose, sep = ","            # Split comma-separated items
+  ) %>%
+  mutate(
+    ItemsToChoose = str_trim(
+      ItemsToChoose,                    # Trim leading/trailing spaces
+      side = "both"
+    )
+  ) %>%
+  distinct(
+    SubmissionId, UserId, ItemsToChoose  # Remove duplicates
+  ) %>%
+  mutate(
+    ItemChosen = 1                      # Mark item as chosen
+  ) %>%
+  pivot_wider(
+    names_from = ItemsToChoose,           # Create columns for each item
+    values_from = ItemChosen,             # Set value to 1 for chosen items
+    values_fill = list(ItemChosen = 0)    # Fill missing values with 0
+  )
+show(dfItemsChosen)
+```
+
+```{r}
+# Find the frequency of selecting 'Soybean oil'
+frequency_soybean_oil <- dfItemsChosen %>%
+  count(`Soybean Oil`)
+print(frequency_soybean_oil)
+```
+The frequency of selecting Soybean Oil is 77.
+
+```{r}
+# Find the frequency of selecting 'Soybean oil'
+frequency_soybean_oil_eggs <- dfItemsChosen %>%
+  count(`Soybean Oil`, Eggs)
+print(frequency_soybean_oil_eggs)
+```
+The frequency of selecting Soybean Oil and Eggs is 53
