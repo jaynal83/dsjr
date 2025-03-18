@@ -1,0 +1,59 @@
+---
+title: "Air Quality Data Processing"
+author: "Shihab Sarker"
+date: "2025-03-16"
+output: html_document
+---
+### Air Quality Data
+
+A data of ambient air quality PM2.5 measured in every hours in major cities in Bangladesh covering 2012 to 2021. Your task is to create a tidy data so that subsequent analysis can be done easily. The data is in an Excel file. One worksheet contains one city. The following are the variables in the data:
+
+-   `Date:` Date in Datetime format
+-   `Time:` Time of the day in 24 hours format
+-   `PM2.5:` Concentration of PM2.5 measured in $\mu g/m^3$
+-   `Temperature:` in Degree Celsius
+
+### Expected Output from Air Quality Data
+
+The following is the expected output data after doing cleaning and necessary processing:
+
+-   `Date:` Only date part from the date time variable
+-   `Time:` Time of the day in 24 hours format
+-   `CityName:` Name of the city from the raw data (Worksheet name of the Excel file)
+-   `PM2.5:` Concentration of PM2.5 measured in $\mu g/m^3$
+-   `Temperature:` in Degree Celsius
+
+### Data Processing and Cleaning
+```{r, warning=FALSE, message=FALSE}
+# Load Packages
+library(readxl)
+library(dplyr)
+library(tidyr)
+library(lubridate)
+library(hms)
+library(purrr)
+
+# Import data
+city_names <- excel_sheets("data/Air Quality Data.xlsx")
+
+dfAirQuality <- map_df(city_names, ~ {
+  read_excel("data/Air Quality Data.xlsx", 
+             sheet = .x,
+             col_types = c("date", "text", "numeric", "numeric")) %>%
+    mutate(CityName = .x)
+})
+
+# Clean and process the data
+dfAirQuality_cleaned <- dfAirQuality %>%
+  transmute(
+    Date = as.Date(Date),
+    Time = parse_hm(Time),
+    CityName = as.factor(CityName),
+    PM2.5,
+    Temperature
+  ) %>%
+  drop_na()
+
+# View the cleaned data
+show(dfAirQuality_cleaned)
+```
